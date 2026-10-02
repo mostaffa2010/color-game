@@ -108,22 +108,7 @@ class ColoringCanvasView @JvmOverloads constructor(
     init {
         setLayerType(LAYER_TYPE_HARDWARE, null)
 
-        scaleDetector = ScaleGestureDetector(context, object : ScaleGestureDetector.SimpleOnScaleGestureListener() {
-            override fun onScale(detector: ScaleGestureDetector): Boolean {
-                val scaleFactor = detector.scaleFactor
-                val currentScale = getCurrentScale()
-                val targetScale = currentScale * scaleFactor
-
-                if (targetScale in minScale..maxScale) {
-                    currentMatrix.postScale(scaleFactor, scaleFactor, detector.focusX, detector.focusY)
-                    clampTranslation()
-                    invalidate()
-                }
-                return true
-            }
-        })
-
-        gestureDetector = GestureDetector(context, object : GestureDetector.SimpleOnGestureListener() {
+        val gestureListener = object : GestureDetector.SimpleOnGestureListener() {
             override fun onScroll(
                 e1: MotionEvent?,
                 e2: MotionEvent,
@@ -145,6 +130,24 @@ class ColoringCanvasView @JvmOverloads constructor(
                 val currentScale = getCurrentScale()
                 val targetScale = if (currentScale > baseScale * 2.0f) baseScale else baseScale * 3.5f
                 animateZoom(targetScale, e.x, e.y)
+                return true
+            }
+        }
+
+        gestureDetector = GestureDetector(context, gestureListener)
+        gestureDetector.setOnDoubleTapListener(gestureListener)
+
+        scaleDetector = ScaleGestureDetector(context, object : ScaleGestureDetector.SimpleOnScaleGestureListener() {
+            override fun onScale(detector: ScaleGestureDetector): Boolean {
+                val scaleFactor = detector.scaleFactor
+                val currentScale = getCurrentScale()
+                val targetScale = currentScale * scaleFactor
+
+                if (targetScale in minScale..maxScale) {
+                    currentMatrix.postScale(scaleFactor, scaleFactor, detector.focusX, detector.focusY)
+                    clampTranslation()
+                    invalidate()
+                }
                 return true
             }
         })
@@ -365,10 +368,10 @@ class ColoringCanvasView @JvmOverloads constructor(
             0f, height.toFloat()
         )
         inverseMatrix.mapPoints(viewportPoints)
-        val minX = minOf(viewportPoints[0], viewportPoints[2], viewportPoints[4], viewportPoints[6]) - 50
-        val maxX = maxOf(viewportPoints[0], viewportPoints[2], viewportPoints[4], viewportPoints[6]) + 50
-        val minY = minOf(viewportPoints[1], viewportPoints[3], viewportPoints[5], viewportPoints[7]) - 50
-        val maxY = maxOf(viewportPoints[1], viewportPoints[3], viewportPoints[5], viewportPoints[7]) + 50
+        val minX = minOf(viewportPoints[0], minOf(viewportPoints[2], minOf(viewportPoints[4], viewportPoints[6]))) - 50
+        val maxX = maxOf(viewportPoints[0], maxOf(viewportPoints[2], maxOf(viewportPoints[4], viewportPoints[6]))) + 50
+        val minY = minOf(viewportPoints[1], minOf(viewportPoints[3], minOf(viewportPoints[5], viewportPoints[7]))) - 50
+        val maxY = maxOf(viewportPoints[1], maxOf(viewportPoints[3], maxOf(viewportPoints[5], viewportPoints[7]))) + 50
 
         // Scale factors for text so numbers remain comfortable and readable
         val textScale = 1f / currentScale

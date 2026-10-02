@@ -26,21 +26,18 @@ jobs:
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
 
-      - name: Setup Gradle
+      - name: Setup Gradle 8.5
         uses: gradle/actions/setup-gradle@v3
+        with:
+          gradle-version: '8.5'
 
-      - name: Ensure Executable Permissions
-        run: chmod +x gradlew || true
-
-      - name: Ensure Gradle Wrapper
+      - name: Generate Gradle Wrapper
         run: |
-          if [ ! -f gradle/wrapper/gradle-wrapper.jar ]; then
-            echo "Generating Gradle Wrapper 8.5..."
-            gradle wrapper --gradle-version 8.5
-          fi
+          gradle wrapper --gradle-version 8.5
+          chmod +x gradlew || true
 
       - name: Build Debug APK
-        run: ./gradlew assembleDebug --stacktrace
+        run: gradle assembleDebug --stacktrace
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
@@ -51,6 +48,7 @@ jobs:
 
       - name: Publish GitHub Release with APK
         uses: softprops/action-gh-release@v2
+        continue-on-error: true
         if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master' || github.event_name == 'workflow_dispatch'
         with:
           tag_name: build-v${{ github.run_number }}
@@ -58,7 +56,6 @@ jobs:
           body: |
             ### 🎨 ColorStory Playable APK
             - **Build Number:** ${{ github.run_number }}
-            - **Commit:** ${{ github.sha }}
             - **Download:** Click on `app-debug.apk` below to download and install on your Android device!
           files: app/build/outputs/apk/debug/app-debug.apk
           draft: false
