@@ -172,13 +172,14 @@ class ColoringCanvasView @JvmOverloads constructor(
             colorToRegions.getOrPut(r.colorId) { mutableListOf() }.add(r)
         }
 
-        // Prepare raw pixel buffers
+        // Prepare raw pixel buffers using local non-null vals
         val totalPixels = imageWidth * imageHeight
-        regionsPixels = IntArray(totalPixels)
-        regions.getPixels(regionsPixels, 0, imageWidth, 0, 0, imageWidth, imageHeight)
+        val rPixels = IntArray(totalPixels)
+        regions.getPixels(rPixels, 0, imageWidth, 0, 0, imageWidth, imageHeight)
+        regionsPixels = rPixels
 
-        // Initialize colored canvas with light paper color (#FAF8F5)
-        canvasPixels = IntArray(totalPixels) { Color.parseColor("#FAF8F5") }
+        val cPixels = IntArray(totalPixels) { Color.parseColor("#FAF8F5") }
+        canvasPixels = cPixels
         coloredCanvasBitmap = Bitmap.createBitmap(imageWidth, imageHeight, Bitmap.Config.ARGB_8888)
 
         // Restore already colored regions
@@ -187,7 +188,7 @@ class ColoringCanvasView @JvmOverloads constructor(
             colorRegionInternal(rid, updateBitmap = false)
         }
 
-        coloredCanvasBitmap?.setPixels(canvasPixels, 0, imageWidth, 0, 0, imageWidth, imageHeight)
+        coloredCanvasBitmap?.setPixels(cPixels, 0, imageWidth, 0, 0, imageWidth, imageHeight)
 
         // Update remaining counts in levelData
         data.palette.forEach { p ->
