@@ -23,18 +23,10 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
-
-      - name: Setup Gradle 8.5
+      - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v3
         with:
           gradle-version: '8.5'
-
-      - name: Generate Gradle Wrapper
-        run: |
-          gradle wrapper --gradle-version 8.5
-          chmod +x gradlew || true
 
       - name: Build Debug APK
         run: gradle assembleDebug --stacktrace
@@ -56,7 +48,7 @@ jobs:
           body: |
             ### 🎨 ColorStory Playable APK
             - **Build Number:** ${{ github.run_number }}
-            - **Download:** Click on `app-debug.apk` below to download and install on your Android device!
+            - **Download:** Click on app-debug.apk below to download and install!
           files: app/build/outputs/apk/debug/app-debug.apk
           draft: false
           prerelease: false
