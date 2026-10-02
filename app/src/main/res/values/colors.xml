@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#E65100</color>
+    <color name="primary_variant">#BF360C</color>
+    <color name="secondary">#FFB300</color>
+    <color name="background_light">#F8F9FA</color>
+    <color name="canvas_paper">#FAF8F5</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_main">#212121</color>
+    <color name="text_muted">#757575</color>
+    <color name="palette_selected_ring">#FF6D00</color>
+    <color name="check_green">#2E7D32</color>
+    <color name="story_parchment">#FFFDF9</color>
+    <color name="story_border">#D7CCC8</color>
+</resources>

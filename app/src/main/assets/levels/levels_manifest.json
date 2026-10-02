@@ -1,0 +1,50 @@
+{
+  "chapters": [
+    {
+      "id": "chapter_1",
+      "number": 1,
+      "title": "The Whispering Village",
+      "description": "Uncover the morning secrets of an ancient cobblestone town where each colored shop reveals a piece of history.",
+      "levels": [
+        {
+          "id": "bakery_01",
+          "folder": "bakery_01",
+          "title": "The Village Bakery",
+          "previewColor": "#BF5342",
+          "totalColors": 32,
+          "isUnlocked": true,
+          "storyIntro": "In the quiet heart of the old kingdom, the warmth of the baker's oven greets the early sunrise. Restore the rich aroma of golden crusts and freshly baked pastries to begin your journey.",
+          "storyOutro": "The bakery is alive with radiant colors! As the villagers arrive with cheerful smiles, the old baker hands you a brass key tucked inside a warm loaf of bread. A note reads: 'To the clockmaker's door...'."
+        },
+        {
+          "id": "clockmaker_02",
+          "folder": "bakery_01",
+          "title": "The Clockmaker's Tower",
+          "previewColor": "#3E505B",
+          "totalColors": 32,
+          "isUnlocked": false,
+          "storyIntro": "The town clock has stopped ticking for seventy years. Only by bringing back the luster of its brass gears and stained glass can time resume.",
+          "storyOutro": "Tick... tock... the grand pendulum swings again! A secret compartment at the clock's base springs open, revealing a glowing compass pointing toward the forest."
+        }
+      ]
+    },
+    {
+      "id": "chapter_2",
+      "number": 2,
+      "title": "The Enchanted Forest",
+      "description": "Venture beyond the village walls where luminescent flora and mythical guardians watch from the shadows.",
+      "levels": [
+        {
+          "id": "forest_01",
+          "folder": "bakery_01",
+          "title": "The Guardian Owl",
+          "previewColor": "#2E7D32",
+          "totalColors": 32,
+          "isUnlocked": false,
+          "storyIntro": "Deep within the emerald canopy, the silent keeper of the woods awaits your brush.",
+          "storyOutro": "The guardian owl spreads its shimmering wings, illuminating the hidden trail deeper into the heart of the realm."
+        }
+      ]
+    }
+  ]
+}

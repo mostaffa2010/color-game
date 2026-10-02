@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColorStory</string>
+    <string name="chapter_select_title">Story Chapters</string>
+    <string name="hint">Hint</string>
+    <string name="level_complete">Level Complete!</string>
+    <string name="continue_story">Continue Story</string>
+    <string name="locked">Locked</string>
+    <string name="play">Color</string>
+    <string name="progress_format">%1$d%%</string>
+</resources>

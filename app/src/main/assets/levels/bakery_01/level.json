@@ -1,0 +1,7936 @@
+{
+  "id": "bakery_01",
+  "title": "The Village Bakery",
+  "chapter": 1,
+  "chapterTitle": "Chapter 1: The Whispering Village",
+  "storyIntro": "In the quiet heart of the old kingdom, the warmth of the hearth brings life to the cobblestones. Bring back its morning colors!",
+  "storyOutro": "The bakery glows with golden crusts and fragrant pastries! As the villagers arrive, the baker hands you a mysterious parchment...",
+  "width": 1024,
+  "height": 1024,
+  "totalRegions": 958,
+  "totalColors": 32,
+  "palette": [
+    {
+      "id": 1,
+      "hex": "#704531",
+      "r": 112,
+      "g": 69,
+      "b": 49,
+      "totalRegions": 83
+    },
+    {
+      "id": 2,
+      "hex": "#3C6138",
+      "r": 60,
+      "g": 97,
+      "b": 56,
+      "totalRegions": 19
+    },
+    {
+      "id": 3,
+      "hex": "#4A565C",
+      "r": 74,
+      "g": 86,
+      "b": 92,
+      "totalRegions": 32
+    },
+    {
+      "id": 4,
+      "hex": "#8D4833",
+      "r": 141,
+      "g": 72,
+      "b": 51,
+      "totalRegions": 33
+    },
+    {
+      "id": 5,
+      "hex": "#516838",
+      "r": 81,
+      "g": 104,
+      "b": 56,
+      "totalRegions": 29
+    },
+    {
+      "id": 6,
+      "hex": "#835233",
+      "r": 131,
+      "g": 82,
+      "b": 51,
+      "totalRegions": 39
+    },
+    {
+      "id": 7,
+      "hex": "#6E5F54",
+      "r": 110,
+      "g": 95,
+      "b": 84,
+      "totalRegions": 24
+    },
+    {
+      "id": 8,
+      "hex": "#975137",
+      "r": 151,
+      "g": 81,
+      "b": 55,
+      "totalRegions": 46
+    },
+    {
+      "id": 9,
+      "hex": "#8B5B3D",
+      "r": 139,
+      "g": 91,
+      "b": 61,
+      "totalRegions": 43
+    },
+    {
+      "id": 10,
+      "hex": "#5E7245",
+      "r": 94,
+      "g": 114,
+      "b": 69,
+      "totalRegions": 32
+    },
+    {
+      "id": 11,
+      "hex": "#9F593B",
+      "r": 159,
+      "g": 89,
+      "b": 59,
+      "totalRegions": 50
+    },
+    {
+      "id": 12,
+      "hex": "#517F4B",
+      "r": 81,
+      "g": 127,
+      "b": 75,
+      "totalRegions": 20
+    },
+    {
+      "id": 13,
+      "hex": "#69717D",
+      "r": 105,
+      "g": 113,
+      "b": 125,
+      "totalRegions": 14
+    },
+    {
+      "id": 14,
+      "hex": "#A85F3D",
+      "r": 168,
+      "g": 95,
+      "b": 61,
+      "totalRegions": 31
+    },
+    {
+      "id": 15,
+      "hex": "#A95B51",
+      "r": 169,
+      "g": 91,
+      "b": 81,
+      "totalRegions": 26
+    },
+    {
+      "id": 16,
+      "hex": "#C15344",
+      "r": 193,
+      "g": 83,
+      "b": 68,
+      "totalRegions": 15
+    },
+    {
+      "id": 17,
+      "hex": "#658343",
+      "r": 101,
+      "g": 131,
+      "b": 67,
+      "totalRegions": 37
+    },
+    {
+      "id": 18,
+      "hex": "#996C4E",
+      "r": 153,
+      "g": 108,
+      "b": 78,
+      "totalRegions": 42
+    },
+    {
+      "id": 19,
+      "hex": "#897762",
+      "r": 137,
+      "g": 119,
+      "b": 98,
+      "totalRegions": 44
+    },
+    {
+      "id": 20,
+      "hex": "#798C4A",
+      "r": 121,
+      "g": 140,
+      "b": 74,
+      "totalRegions": 14
+    },
+    {
+      "id": 21,
+      "hex": "#9C799C",
+      "r": 156,
+      "g": 121,
+      "b": 156,
+      "totalRegions": 7
+    },
+    {
+      "id": 22,
+      "hex": "#B97D4F",
+      "r": 185,
+      "g": 125,
+      "b": 79,
+      "totalRegions": 34
+    },
+    {
+      "id": 23,
+      "hex": "#889850",
+      "r": 136,
+      "g": 152,
+      "b": 80,
+      "totalRegions": 30
+    },
+    {
+      "id": 24,
+      "hex": "#849485",
+      "r": 132,
+      "g": 148,
+      "b": 133,
+      "totalRegions": 13
+    },
+    {
+      "id": 25,
+      "hex": "#9F8C78",
+      "r": 159,
+      "g": 140,
+      "b": 120,
+      "totalRegions": 23
+    },
+    {
+      "id": 26,
+      "hex": "#B18765",
+      "r": 177,
+      "g": 135,
+      "b": 101,
+      "totalRegions": 21
+    },
+    {
+      "id": 27,
+      "hex": "#93A350",
+      "r": 147,
+      "g": 163,
+      "b": 80,
+      "totalRegions": 24
+    },
+    {
+      "id": 28,
+      "hex": "#C08096",
+      "r": 192,
+      "g": 128,
+      "b": 150,
+      "totalRegions": 25
+    },
+    {
+      "id": 29,
+      "hex": "#C69765",
+      "r": 198,
+      "g": 151,
+      "b": 101,
+      "totalRegions": 29
+    },
+    {
+      "id": 30,
+      "hex": "#BBAE8E",
+      "r": 187,
+      "g": 174,
+      "b": 142,
+      "totalRegions": 31
+    },
+    {
+      "id": 31,
+      "hex": "#D1BAB9",
+      "r": 209,
+      "g": 186,
+      "b": 185,
+      "totalRegions": 11
+    },
+    {
+      "id": 32,
+      "hex": "#E6C078",
+      "r": 230,
+      "g": 192,
+      "b": 120,
+      "totalRegions": 37
+    }
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "labelX": 523,
+      "labelY": 0,
+      "maxRadius": 193.0,
+      "area": 189895,
+      "colorId": 31
+    },
+    {
+      "id": 2,
+      "labelX": 290,
+      "labelY": 101,
+      "maxRadius": 8.0,
+      "area": 448,
+      "colorId": 18
+    },
+    {
+      "id": 3,
+      "labelX": 713,
+      "labelY": 97,
+      "maxRadius": 2.2,
+      "area": 84,
+      "colorId": 19
+    },
+    {
+      "id": 4,
+      "labelX": 743,
+      "labelY": 97,
+      "maxRadius": 2.2,
+      "area": 81,
+      "colorId": 7
+    },
+    {
+      "id": 5,
+      "labelX": 719,
+      "labelY": 117,
+      "maxRadius": 9.2,
+      "area": 453,
+      "colorId": 18
+    },
+    {
+      "id": 6,
+      "labelX": 749,
+      "labelY": 112,
+      "maxRadius": 8.4,
+      "area": 432,
+      "colorId": 18
+    },
+    {
+      "id": 7,
+      "labelX": 268,
+      "labelY": 123,
+      "maxRadius": 6.0,
+      "area": 558,
+      "colorId": 30
+    },
+    {
+      "id": 8,
+      "labelX": 317,
+      "labelY": 128,
+      "maxRadius": 3.0,
+      "area": 51,
+      "colorId": 19
+    },
+    {
+      "id": 9,
+      "labelX": 710,
+      "labelY": 135,
+      "maxRadius": 7.0,
+      "area": 949,
+      "colorId": 19
+    },
+    {
+      "id": 10,
+      "labelX": 270,
+      "labelY": 131,
+      "maxRadius": 2.0,
+      "area": 134,
+      "colorId": 7
+    },
+    {
+      "id": 11,
+      "labelX": 697,
+      "labelY": 143,
+      "maxRadius": 4.2,
+      "area": 131,
+      "colorId": 30
+    },
+    {
+      "id": 12,
+      "labelX": 287,
+      "labelY": 159,
+      "maxRadius": 10.8,
+      "area": 3659,
+      "colorId": 25
+    },
+    {
+      "id": 13,
+      "labelX": 313,
+      "labelY": 167,
+      "maxRadius": 2.2,
+      "area": 269,
+      "colorId": 7
+    },
+    {
+      "id": 14,
+      "labelX": 372,
+      "labelY": 142,
+      "maxRadius": 3.6,
+      "area": 270,
+      "colorId": 6
+    },
+    {
+      "id": 15,
+      "labelX": 704,
+      "labelY": 145,
+      "maxRadius": 1.4,
+      "area": 151,
+      "colorId": 7
+    },
+    {
+      "id": 16,
+      "labelX": 377,
+      "labelY": 151,
+      "maxRadius": 5.0,
+      "area": 5319,
+      "colorId": 11
+    },
+    {
+      "id": 17,
+      "labelX": 752,
+      "labelY": 199,
+      "maxRadius": 11.0,
+      "area": 5670,
+      "colorId": 19
+    },
+    {
+      "id": 18,
+      "labelX": 700,
+      "labelY": 162,
+      "maxRadius": 5.0,
+      "area": 599,
+      "colorId": 30
+    },
+    {
+      "id": 19,
+      "labelX": 977,
+      "labelY": 231,
+      "maxRadius": 16.8,
+      "area": 2033,
+      "colorId": 2
+    },
+    {
+      "id": 20,
+      "labelX": 1023,
+      "labelY": 179,
+      "maxRadius": 15.2,
+      "area": 1372,
+      "colorId": 12
+    },
+    {
+      "id": 21,
+      "labelX": 406,
+      "labelY": 170,
+      "maxRadius": 2.8,
+      "area": 173,
+      "colorId": 1
+    },
+    {
+      "id": 22,
+      "labelX": 948,
+      "labelY": 176,
+      "maxRadius": 13.2,
+      "area": 2017,
+      "colorId": 12
+    },
+    {
+      "id": 23,
+      "labelX": 67,
+      "labelY": 205,
+      "maxRadius": 7.0,
+      "area": 382,
+      "colorId": 7
+    },
+    {
+      "id": 24,
+      "labelX": 1003,
+      "labelY": 220,
+      "maxRadius": 8.4,
+      "area": 831,
+      "colorId": 2
+    },
+    {
+      "id": 25,
+      "labelX": 55,
+      "labelY": 207,
+      "maxRadius": 5.0,
+      "area": 252,
+      "colorId": 25
+    },
+    {
+      "id": 26,
+      "labelX": 337,
+      "labelY": 185,
+      "maxRadius": 2.2,
+      "area": 134,
+      "colorId": 1
+    },
+    {
+      "id": 27,
+      "labelX": 891,
+      "labelY": 216,
+      "maxRadius": 8.6,
+      "area": 555,
+      "colorId": 2
+    },
+    {
+      "id": 28,
+      "labelX": 377,
+      "labelY": 231,
+      "maxRadius": 5.0,
+      "area": 766,
+      "colorId": 6
+    },
+    {
+      "id": 29,
+      "labelX": 913,
+      "labelY": 230,
+      "maxRadius": 7.6,
+      "area": 953,
+      "colorId": 2
+    },
+    {
+      "id": 30,
+      "labelX": 353,
+      "labelY": 235,
+      "maxRadius": 18.8,
+      "area": 1994,
+      "colorId": 32
+    },
+    {
+      "id": 31,
+      "labelX": 404,
+      "labelY": 236,
+      "maxRadius": 18.0,
+      "area": 1868,
+      "colorId": 32
+    },
+    {
+      "id": 32,
+      "labelX": 396,
+      "labelY": 191,
+      "maxRadius": 2.2,
+      "area": 61,
+      "colorId": 1
+    },
+    {
+      "id": 33,
+      "labelX": 874,
+      "labelY": 221,
+      "maxRadius": 8.0,
+      "area": 566,
+      "colorId": 2
+    },
+    {
+      "id": 34,
+      "labelX": 941,
+      "labelY": 208,
+      "maxRadius": 12.2,
+      "area": 1295,
+      "colorId": 17
+    },
+    {
+      "id": 35,
+      "labelX": 237,
+      "labelY": 195,
+      "maxRadius": 5.0,
+      "area": 290,
+      "colorId": 14
+    },
+    {
+      "id": 36,
+      "labelX": 662,
+      "labelY": 197,
+      "maxRadius": 5.0,
+      "area": 1503,
+      "colorId": 11
+    },
+    {
+      "id": 37,
+      "labelX": 776,
+      "labelY": 192,
+      "maxRadius": 1.0,
+      "area": 31,
+      "colorId": 1
+    },
+    {
+      "id": 38,
+      "labelX": 851,
+      "labelY": 239,
+      "maxRadius": 10.0,
+      "area": 1270,
+      "colorId": 2
+    },
+    {
+      "id": 39,
+      "labelX": 437,
+      "labelY": 197,
+      "maxRadius": 4.2,
+      "area": 409,
+      "colorId": 14
+    },
+    {
+      "id": 40,
+      "labelX": 320,
+      "labelY": 196,
+      "maxRadius": 2.8,
+      "area": 35,
+      "colorId": 9
+    },
+    {
+      "id": 41,
+      "labelX": 443,
+      "labelY": 214,
+      "maxRadius": 2.8,
+      "area": 278,
+      "colorId": 6
+    },
+    {
+      "id": 42,
+      "labelX": 882,
+      "labelY": 200,
+      "maxRadius": 2.0,
+      "area": 25,
+      "colorId": 12
+    },
+    {
+      "id": 43,
+      "labelX": 822,
+      "labelY": 216,
+      "maxRadius": 8.6,
+      "area": 807,
+      "colorId": 12
+    },
+    {
+      "id": 44,
+      "labelX": 238,
+      "labelY": 209,
+      "maxRadius": 8.2,
+      "area": 271,
+      "colorId": 8
+    },
+    {
+      "id": 45,
+      "labelX": 836,
+      "labelY": 223,
+      "maxRadius": 5.2,
+      "area": 434,
+      "colorId": 2
+    },
+    {
+      "id": 46,
+      "labelX": 257,
+      "labelY": 209,
+      "maxRadius": 8.0,
+      "area": 249,
+      "colorId": 8
+    },
+    {
+      "id": 47,
+      "labelX": 486,
+      "labelY": 211,
+      "maxRadius": 8.0,
+      "area": 259,
+      "colorId": 11
+    },
+    {
+      "id": 48,
+      "labelX": 507,
+      "labelY": 210,
+      "maxRadius": 8.0,
+      "area": 298,
+      "colorId": 11
+    },
+    {
+      "id": 49,
+      "labelX": 525,
+      "labelY": 210,
+      "maxRadius": 8.0,
+      "area": 298,
+      "colorId": 11
+    },
+    {
+      "id": 50,
+      "labelX": 546,
+      "labelY": 210,
+      "maxRadius": 8.0,
+      "area": 316,
+      "colorId": 8
+    },
+    {
+      "id": 51,
+      "labelX": 568,
+      "labelY": 210,
+      "maxRadius": 8.0,
+      "area": 302,
+      "colorId": 14
+    },
+    {
+      "id": 52,
+      "labelX": 472,
+      "labelY": 206,
+      "maxRadius": 2.2,
+      "area": 34,
+      "colorId": 11
+    },
+    {
+      "id": 53,
+      "labelX": 591,
+      "labelY": 211,
+      "maxRadius": 8.0,
+      "area": 285,
+      "colorId": 4
+    },
+    {
+      "id": 54,
+      "labelX": 614,
+      "labelY": 211,
+      "maxRadius": 8.0,
+      "area": 313,
+      "colorId": 4
+    },
+    {
+      "id": 55,
+      "labelX": 637,
+      "labelY": 211,
+      "maxRadius": 8.0,
+      "area": 335,
+      "colorId": 8
+    },
+    {
+      "id": 56,
+      "labelX": 663,
+      "labelY": 211,
+      "maxRadius": 8.0,
+      "area": 331,
+      "colorId": 8
+    },
+    {
+      "id": 57,
+      "labelX": 687,
+      "labelY": 211,
+      "maxRadius": 8.0,
+      "area": 279,
+      "colorId": 8
+    },
+    {
+      "id": 58,
+      "labelX": 313,
+      "labelY": 211,
+      "maxRadius": 2.2,
+      "area": 203,
+      "colorId": 1
+    },
+    {
+      "id": 59,
+      "labelX": 72,
+      "labelY": 221,
+      "maxRadius": 7.0,
+      "area": 418,
+      "colorId": 31
+    },
+    {
+      "id": 60,
+      "labelX": 245,
+      "labelY": 227,
+      "maxRadius": 8.6,
+      "area": 306,
+      "colorId": 8
+    },
+    {
+      "id": 61,
+      "labelX": 230,
+      "labelY": 225,
+      "maxRadius": 5.0,
+      "area": 144,
+      "colorId": 8
+    },
+    {
+      "id": 62,
+      "labelX": 535,
+      "labelY": 228,
+      "maxRadius": 8.0,
+      "area": 302,
+      "colorId": 11
+    },
+    {
+      "id": 63,
+      "labelX": 557,
+      "labelY": 228,
+      "maxRadius": 8.0,
+      "area": 309,
+      "colorId": 4
+    },
+    {
+      "id": 64,
+      "labelX": 602,
+      "labelY": 228,
+      "maxRadius": 8.0,
+      "area": 336,
+      "colorId": 14
+    },
+    {
+      "id": 65,
+      "labelX": 262,
+      "labelY": 230,
+      "maxRadius": 5.8,
+      "area": 221,
+      "colorId": 11
+    },
+    {
+      "id": 66,
+      "labelX": 499,
+      "labelY": 225,
+      "maxRadius": 5.0,
+      "area": 260,
+      "colorId": 4
+    },
+    {
+      "id": 67,
+      "labelX": 513,
+      "labelY": 228,
+      "maxRadius": 8.0,
+      "area": 296,
+      "colorId": 4
+    },
+    {
+      "id": 68,
+      "labelX": 580,
+      "labelY": 228,
+      "maxRadius": 8.0,
+      "area": 300,
+      "colorId": 8
+    },
+    {
+      "id": 69,
+      "labelX": 626,
+      "labelY": 228,
+      "maxRadius": 8.0,
+      "area": 340,
+      "colorId": 11
+    },
+    {
+      "id": 70,
+      "labelX": 651,
+      "labelY": 228,
+      "maxRadius": 8.0,
+      "area": 359,
+      "colorId": 14
+    },
+    {
+      "id": 71,
+      "labelX": 678,
+      "labelY": 228,
+      "maxRadius": 8.0,
+      "area": 333,
+      "colorId": 4
+    },
+    {
+      "id": 72,
+      "labelX": 802,
+      "labelY": 229,
+      "maxRadius": 5.8,
+      "area": 184,
+      "colorId": 4
+    },
+    {
+      "id": 73,
+      "labelX": 421,
+      "labelY": 222,
+      "maxRadius": 1.4,
+      "area": 44,
+      "colorId": 1
+    },
+    {
+      "id": 74,
+      "labelX": 696,
+      "labelY": 226,
+      "maxRadius": 4.0,
+      "area": 94,
+      "colorId": 8
+    },
+    {
+      "id": 75,
+      "labelX": 0,
+      "labelY": 246,
+      "maxRadius": 17.0,
+      "area": 1694,
+      "colorId": 26
+    },
+    {
+      "id": 76,
+      "labelX": 64,
+      "labelY": 227,
+      "maxRadius": 2.0,
+      "area": 257,
+      "colorId": 7
+    },
+    {
+      "id": 77,
+      "labelX": 283,
+      "labelY": 230,
+      "maxRadius": 5.0,
+      "area": 139,
+      "colorId": 8
+    },
+    {
+      "id": 78,
+      "labelX": 901,
+      "labelY": 250,
+      "maxRadius": 9.8,
+      "area": 1483,
+      "colorId": 5
+    },
+    {
+      "id": 79,
+      "labelX": 430,
+      "labelY": 232,
+      "maxRadius": 2.0,
+      "area": 48,
+      "colorId": 1
+    },
+    {
+      "id": 80,
+      "labelX": 55,
+      "labelY": 275,
+      "maxRadius": 13.4,
+      "area": 3407,
+      "colorId": 31
+    },
+    {
+      "id": 81,
+      "labelX": 799,
+      "labelY": 244,
+      "maxRadius": 8.2,
+      "area": 373,
+      "colorId": 8
+    },
+    {
+      "id": 82,
+      "labelX": 134,
+      "labelY": 257,
+      "maxRadius": 13.8,
+      "area": 1096,
+      "colorId": 22
+    },
+    {
+      "id": 83,
+      "labelX": 231,
+      "labelY": 244,
+      "maxRadius": 8.0,
+      "area": 306,
+      "colorId": 8
+    },
+    {
+      "id": 84,
+      "labelX": 250,
+      "labelY": 245,
+      "maxRadius": 8.0,
+      "area": 310,
+      "colorId": 11
+    },
+    {
+      "id": 85,
+      "labelX": 271,
+      "labelY": 244,
+      "maxRadius": 7.0,
+      "area": 251,
+      "colorId": 8
+    },
+    {
+      "id": 86,
+      "labelX": 594,
+      "labelY": 245,
+      "maxRadius": 8.4,
+      "area": 330,
+      "colorId": 8
+    },
+    {
+      "id": 87,
+      "labelX": 1023,
+      "labelY": 263,
+      "maxRadius": 12.8,
+      "area": 2712,
+      "colorId": 17
+    },
+    {
+      "id": 88,
+      "labelX": 512,
+      "labelY": 241,
+      "maxRadius": 2.8,
+      "area": 53,
+      "colorId": 4
+    },
+    {
+      "id": 89,
+      "labelX": 526,
+      "labelY": 245,
+      "maxRadius": 8.6,
+      "area": 319,
+      "colorId": 14
+    },
+    {
+      "id": 90,
+      "labelX": 548,
+      "labelY": 245,
+      "maxRadius": 8.6,
+      "area": 329,
+      "colorId": 11
+    },
+    {
+      "id": 91,
+      "labelX": 571,
+      "labelY": 245,
+      "maxRadius": 8.6,
+      "area": 330,
+      "colorId": 11
+    },
+    {
+      "id": 92,
+      "labelX": 617,
+      "labelY": 245,
+      "maxRadius": 8.6,
+      "area": 346,
+      "colorId": 14
+    },
+    {
+      "id": 93,
+      "labelX": 643,
+      "labelY": 245,
+      "maxRadius": 8.6,
+      "area": 364,
+      "colorId": 8
+    },
+    {
+      "id": 94,
+      "labelX": 669,
+      "labelY": 245,
+      "maxRadius": 8.6,
+      "area": 367,
+      "colorId": 11
+    },
+    {
+      "id": 95,
+      "labelX": 694,
+      "labelY": 245,
+      "maxRadius": 8.0,
+      "area": 299,
+      "colorId": 8
+    },
+    {
+      "id": 96,
+      "labelX": 936,
+      "labelY": 238,
+      "maxRadius": 3.0,
+      "area": 38,
+      "colorId": 25
+    },
+    {
+      "id": 97,
+      "labelX": 780,
+      "labelY": 248,
+      "maxRadius": 5.0,
+      "area": 199,
+      "colorId": 6
+    },
+    {
+      "id": 98,
+      "labelX": 497,
+      "labelY": 241,
+      "maxRadius": 3.0,
+      "area": 55,
+      "colorId": 1
+    },
+    {
+      "id": 99,
+      "labelX": 171,
+      "labelY": 254,
+      "maxRadius": 12.8,
+      "area": 1723,
+      "colorId": 10
+    },
+    {
+      "id": 100,
+      "labelX": 946,
+      "labelY": 259,
+      "maxRadius": 15.0,
+      "area": 1306,
+      "colorId": 15
+    },
+    {
+      "id": 101,
+      "labelX": 916,
+      "labelY": 248,
+      "maxRadius": 1.4,
+      "area": 80,
+      "colorId": 7
+    },
+    {
+      "id": 102,
+      "labelX": 711,
+      "labelY": 249,
+      "maxRadius": 4.0,
+      "area": 506,
+      "colorId": 19
+    },
+    {
+      "id": 103,
+      "labelX": 862,
+      "labelY": 287,
+      "maxRadius": 17.6,
+      "area": 9388,
+      "colorId": 27
+    },
+    {
+      "id": 104,
+      "labelX": 979,
+      "labelY": 255,
+      "maxRadius": 6.0,
+      "area": 222,
+      "colorId": 23
+    },
+    {
+      "id": 105,
+      "labelX": 238,
+      "labelY": 262,
+      "maxRadius": 8.8,
+      "area": 321,
+      "colorId": 8
+    },
+    {
+      "id": 106,
+      "labelX": 257,
+      "labelY": 261,
+      "maxRadius": 7.0,
+      "area": 254,
+      "colorId": 4
+    },
+    {
+      "id": 107,
+      "labelX": 789,
+      "labelY": 261,
+      "maxRadius": 8.4,
+      "area": 353,
+      "colorId": 4
+    },
+    {
+      "id": 108,
+      "labelX": 811,
+      "labelY": 261,
+      "maxRadius": 6.6,
+      "area": 207,
+      "colorId": 8
+    },
+    {
+      "id": 109,
+      "labelX": 221,
+      "labelY": 259,
+      "maxRadius": 5.4,
+      "area": 179,
+      "colorId": 11
+    },
+    {
+      "id": 110,
+      "labelX": 542,
+      "labelY": 262,
+      "maxRadius": 6.4,
+      "area": 228,
+      "colorId": 8
+    },
+    {
+      "id": 111,
+      "labelX": 559,
+      "labelY": 263,
+      "maxRadius": 8.0,
+      "area": 322,
+      "colorId": 4
+    },
+    {
+      "id": 112,
+      "labelX": 584,
+      "labelY": 262,
+      "maxRadius": 8.6,
+      "area": 333,
+      "colorId": 11
+    },
+    {
+      "id": 113,
+      "labelX": 608,
+      "labelY": 262,
+      "maxRadius": 8.6,
+      "area": 361,
+      "colorId": 14
+    },
+    {
+      "id": 114,
+      "labelX": 632,
+      "labelY": 262,
+      "maxRadius": 8.6,
+      "area": 411,
+      "colorId": 8
+    },
+    {
+      "id": 115,
+      "labelX": 660,
+      "labelY": 262,
+      "maxRadius": 8.4,
+      "area": 398,
+      "colorId": 8
+    },
+    {
+      "id": 116,
+      "labelX": 690,
+      "labelY": 263,
+      "maxRadius": 8.0,
+      "area": 358,
+      "colorId": 4
+    },
+    {
+      "id": 117,
+      "labelX": 767,
+      "labelY": 263,
+      "maxRadius": 8.0,
+      "area": 327,
+      "colorId": 11
+    },
+    {
+      "id": 118,
+      "labelX": 21,
+      "labelY": 261,
+      "maxRadius": 5.0,
+      "area": 321,
+      "colorId": 26
+    },
+    {
+      "id": 119,
+      "labelX": 33,
+      "labelY": 264,
+      "maxRadius": 7.0,
+      "area": 548,
+      "colorId": 19
+    },
+    {
+      "id": 120,
+      "labelX": 321,
+      "labelY": 257,
+      "maxRadius": 2.0,
+      "area": 287,
+      "colorId": 9
+    },
+    {
+      "id": 121,
+      "labelX": 716,
+      "labelY": 263,
+      "maxRadius": 8.0,
+      "area": 340,
+      "colorId": 11
+    },
+    {
+      "id": 122,
+      "labelX": 743,
+      "labelY": 263,
+      "maxRadius": 8.0,
+      "area": 326,
+      "colorId": 11
+    },
+    {
+      "id": 123,
+      "labelX": 348,
+      "labelY": 262,
+      "maxRadius": 4.0,
+      "area": 886,
+      "colorId": 6
+    },
+    {
+      "id": 124,
+      "labelX": 488,
+      "labelY": 268,
+      "maxRadius": 2.2,
+      "area": 69,
+      "colorId": 1
+    },
+    {
+      "id": 125,
+      "labelX": 264,
+      "labelY": 269,
+      "maxRadius": 2.2,
+      "area": 54,
+      "colorId": 1
+    },
+    {
+      "id": 126,
+      "labelX": 317,
+      "labelY": 288,
+      "maxRadius": 21.0,
+      "area": 2472,
+      "colorId": 32
+    },
+    {
+      "id": 127,
+      "labelX": 342,
+      "labelY": 322,
+      "maxRadius": 4.0,
+      "area": 980,
+      "colorId": 9
+    },
+    {
+      "id": 128,
+      "labelX": 370,
+      "labelY": 270,
+      "maxRadius": 3.0,
+      "area": 1165,
+      "colorId": 18
+    },
+    {
+      "id": 129,
+      "labelX": 416,
+      "labelY": 271,
+      "maxRadius": 4.0,
+      "area": 995,
+      "colorId": 9
+    },
+    {
+      "id": 130,
+      "labelX": 442,
+      "labelY": 288,
+      "maxRadius": 21.0,
+      "area": 2299,
+      "colorId": 32
+    },
+    {
+      "id": 131,
+      "labelX": 463,
+      "labelY": 271,
+      "maxRadius": 2.2,
+      "area": 41,
+      "colorId": 1
+    },
+    {
+      "id": 132,
+      "labelX": 807,
+      "labelY": 279,
+      "maxRadius": 8.0,
+      "area": 390,
+      "colorId": 11
+    },
+    {
+      "id": 133,
+      "labelX": 218,
+      "labelY": 280,
+      "maxRadius": 8.0,
+      "area": 331,
+      "colorId": 8
+    },
+    {
+      "id": 134,
+      "labelX": 240,
+      "labelY": 280,
+      "maxRadius": 7.4,
+      "area": 278,
+      "colorId": 8
+    },
+    {
+      "id": 135,
+      "labelX": 556,
+      "labelY": 278,
+      "maxRadius": 5.2,
+      "area": 172,
+      "colorId": 4
+    },
+    {
+      "id": 136,
+      "labelX": 574,
+      "labelY": 280,
+      "maxRadius": 8.8,
+      "area": 347,
+      "colorId": 11
+    },
+    {
+      "id": 137,
+      "labelX": 596,
+      "labelY": 280,
+      "maxRadius": 8.0,
+      "area": 340,
+      "colorId": 14
+    },
+    {
+      "id": 138,
+      "labelX": 621,
+      "labelY": 280,
+      "maxRadius": 8.0,
+      "area": 359,
+      "colorId": 4
+    },
+    {
+      "id": 139,
+      "labelX": 650,
+      "labelY": 280,
+      "maxRadius": 8.0,
+      "area": 398,
+      "colorId": 4
+    },
+    {
+      "id": 140,
+      "labelX": 679,
+      "labelY": 279,
+      "maxRadius": 8.6,
+      "area": 393,
+      "colorId": 8
+    },
+    {
+      "id": 141,
+      "labelX": 705,
+      "labelY": 279,
+      "maxRadius": 8.6,
+      "area": 368,
+      "colorId": 11
+    },
+    {
+      "id": 142,
+      "labelX": 734,
+      "labelY": 280,
+      "maxRadius": 8.0,
+      "area": 348,
+      "colorId": 4
+    },
+    {
+      "id": 143,
+      "labelX": 757,
+      "labelY": 279,
+      "maxRadius": 8.4,
+      "area": 346,
+      "colorId": 8
+    },
+    {
+      "id": 144,
+      "labelX": 781,
+      "labelY": 279,
+      "maxRadius": 8.0,
+      "area": 335,
+      "colorId": 8
+    },
+    {
+      "id": 145,
+      "labelX": 117,
+      "labelY": 281,
+      "maxRadius": 9.0,
+      "area": 930,
+      "colorId": 31
+    },
+    {
+      "id": 146,
+      "labelX": 379,
+      "labelY": 295,
+      "maxRadius": 2.8,
+      "area": 491,
+      "colorId": 18
+    },
+    {
+      "id": 147,
+      "labelX": 0,
+      "labelY": 362,
+      "maxRadius": 68.0,
+      "area": 12042,
+      "colorId": 13
+    },
+    {
+      "id": 148,
+      "labelX": 187,
+      "labelY": 278,
+      "maxRadius": 4.0,
+      "area": 105,
+      "colorId": 25
+    },
+    {
+      "id": 149,
+      "labelX": 944,
+      "labelY": 282,
+      "maxRadius": 8.0,
+      "area": 410,
+      "colorId": 31
+    },
+    {
+      "id": 150,
+      "labelX": 245,
+      "labelY": 291,
+      "maxRadius": 2.8,
+      "area": 462,
+      "colorId": 6
+    },
+    {
+      "id": 151,
+      "labelX": 506,
+      "labelY": 290,
+      "maxRadius": 2.2,
+      "area": 157,
+      "colorId": 1
+    },
+    {
+      "id": 152,
+      "labelX": 374,
+      "labelY": 289,
+      "maxRadius": 2.0,
+      "area": 28,
+      "colorId": 3
+    },
+    {
+      "id": 153,
+      "labelX": 166,
+      "labelY": 350,
+      "maxRadius": 12.6,
+      "area": 4804,
+      "colorId": 31
+    },
+    {
+      "id": 154,
+      "labelX": 183,
+      "labelY": 306,
+      "maxRadius": 15.0,
+      "area": 1305,
+      "colorId": 18
+    },
+    {
+      "id": 155,
+      "labelX": 226,
+      "labelY": 297,
+      "maxRadius": 8.0,
+      "area": 293,
+      "colorId": 11
+    },
+    {
+      "id": 156,
+      "labelX": 640,
+      "labelY": 297,
+      "maxRadius": 9.4,
+      "area": 458,
+      "colorId": 14
+    },
+    {
+      "id": 157,
+      "labelX": 668,
+      "labelY": 297,
+      "maxRadius": 9.0,
+      "area": 453,
+      "colorId": 11
+    },
+    {
+      "id": 158,
+      "labelX": 724,
+      "labelY": 297,
+      "maxRadius": 8.8,
+      "area": 394,
+      "colorId": 14
+    },
+    {
+      "id": 159,
+      "labelX": 750,
+      "labelY": 297,
+      "maxRadius": 8.8,
+      "area": 370,
+      "colorId": 11
+    },
+    {
+      "id": 160,
+      "labelX": 774,
+      "labelY": 296,
+      "maxRadius": 8.6,
+      "area": 370,
+      "colorId": 8
+    },
+    {
+      "id": 161,
+      "labelX": 801,
+      "labelY": 297,
+      "maxRadius": 8.8,
+      "area": 373,
+      "colorId": 4
+    },
+    {
+      "id": 162,
+      "labelX": 915,
+      "labelY": 289,
+      "maxRadius": 3.0,
+      "area": 65,
+      "colorId": 19
+    },
+    {
+      "id": 163,
+      "labelX": 126,
+      "labelY": 313,
+      "maxRadius": 13.8,
+      "area": 1490,
+      "colorId": 19
+    },
+    {
+      "id": 164,
+      "labelX": 210,
+      "labelY": 297,
+      "maxRadius": 6.2,
+      "area": 198,
+      "colorId": 11
+    },
+    {
+      "id": 165,
+      "labelX": 563,
+      "labelY": 299,
+      "maxRadius": 4.4,
+      "area": 305,
+      "colorId": 1
+    },
+    {
+      "id": 166,
+      "labelX": 587,
+      "labelY": 297,
+      "maxRadius": 8.8,
+      "area": 357,
+      "colorId": 8
+    },
+    {
+      "id": 167,
+      "labelX": 614,
+      "labelY": 298,
+      "maxRadius": 9.0,
+      "area": 400,
+      "colorId": 11
+    },
+    {
+      "id": 168,
+      "labelX": 697,
+      "labelY": 297,
+      "maxRadius": 8.8,
+      "area": 404,
+      "colorId": 4
+    },
+    {
+      "id": 169,
+      "labelX": 822,
+      "labelY": 297,
+      "maxRadius": 6.4,
+      "area": 204,
+      "colorId": 4
+    },
+    {
+      "id": 170,
+      "labelX": 899,
+      "labelY": 296,
+      "maxRadius": 5.0,
+      "area": 248,
+      "colorId": 17
+    },
+    {
+      "id": 171,
+      "labelX": 450,
+      "labelY": 320,
+      "maxRadius": 5.0,
+      "area": 1005,
+      "colorId": 6
+    },
+    {
+      "id": 172,
+      "labelX": 326,
+      "labelY": 347,
+      "maxRadius": 4.2,
+      "area": 981,
+      "colorId": 9
+    },
+    {
+      "id": 173,
+      "labelX": 545,
+      "labelY": 302,
+      "maxRadius": 2.0,
+      "area": 45,
+      "colorId": 1
+    },
+    {
+      "id": 174,
+      "labelX": 398,
+      "labelY": 299,
+      "maxRadius": 1.0,
+      "area": 26,
+      "colorId": 3
+    },
+    {
+      "id": 175,
+      "labelX": 275,
+      "labelY": 342,
+      "maxRadius": 28.0,
+      "area": 4155,
+      "colorId": 32
+    },
+    {
+      "id": 176,
+      "labelX": 480,
+      "labelY": 342,
+      "maxRadius": 27.0,
+      "area": 3766,
+      "colorId": 32
+    },
+    {
+      "id": 177,
+      "labelX": 207,
+      "labelY": 315,
+      "maxRadius": 8.0,
+      "area": 358,
+      "colorId": 14
+    },
+    {
+      "id": 178,
+      "labelX": 600,
+      "labelY": 315,
+      "maxRadius": 8.6,
+      "area": 362,
+      "colorId": 4
+    },
+    {
+      "id": 179,
+      "labelX": 656,
+      "labelY": 315,
+      "maxRadius": 8.8,
+      "area": 486,
+      "colorId": 8
+    },
+    {
+      "id": 180,
+      "labelX": 687,
+      "labelY": 315,
+      "maxRadius": 9.0,
+      "area": 455,
+      "colorId": 8
+    },
+    {
+      "id": 181,
+      "labelX": 715,
+      "labelY": 314,
+      "maxRadius": 8.4,
+      "area": 390,
+      "colorId": 8
+    },
+    {
+      "id": 182,
+      "labelX": 743,
+      "labelY": 315,
+      "maxRadius": 8.4,
+      "area": 371,
+      "colorId": 11
+    },
+    {
+      "id": 183,
+      "labelX": 768,
+      "labelY": 315,
+      "maxRadius": 8.8,
+      "area": 379,
+      "colorId": 14
+    },
+    {
+      "id": 184,
+      "labelX": 793,
+      "labelY": 315,
+      "maxRadius": 8.6,
+      "area": 378,
+      "colorId": 11
+    },
+    {
+      "id": 185,
+      "labelX": 819,
+      "labelY": 315,
+      "maxRadius": 8.8,
+      "area": 420,
+      "colorId": 14
+    },
+    {
+      "id": 186,
+      "labelX": 584,
+      "labelY": 313,
+      "maxRadius": 4.4,
+      "area": 137,
+      "colorId": 4
+    },
+    {
+      "id": 187,
+      "labelX": 627,
+      "labelY": 315,
+      "maxRadius": 8.8,
+      "area": 389,
+      "colorId": 8
+    },
+    {
+      "id": 188,
+      "labelX": 535,
+      "labelY": 324,
+      "maxRadius": 2.2,
+      "area": 76,
+      "colorId": 1
+    },
+    {
+      "id": 189,
+      "labelX": 1023,
+      "labelY": 426,
+      "maxRadius": 4.2,
+      "area": 1290,
+      "colorId": 18
+    },
+    {
+      "id": 190,
+      "labelX": 1023,
+      "labelY": 350,
+      "maxRadius": 30.6,
+      "area": 2558,
+      "colorId": 4
+    },
+    {
+      "id": 191,
+      "labelX": 615,
+      "labelY": 332,
+      "maxRadius": 8.4,
+      "area": 374,
+      "colorId": 14
+    },
+    {
+      "id": 192,
+      "labelX": 643,
+      "labelY": 332,
+      "maxRadius": 8.6,
+      "area": 435,
+      "colorId": 14
+    },
+    {
+      "id": 193,
+      "labelX": 679,
+      "labelY": 333,
+      "maxRadius": 8.2,
+      "area": 441,
+      "colorId": 8
+    },
+    {
+      "id": 194,
+      "labelX": 707,
+      "labelY": 332,
+      "maxRadius": 8.6,
+      "area": 452,
+      "colorId": 11
+    },
+    {
+      "id": 195,
+      "labelX": 735,
+      "labelY": 332,
+      "maxRadius": 8.4,
+      "area": 352,
+      "colorId": 4
+    },
+    {
+      "id": 196,
+      "labelX": 762,
+      "labelY": 333,
+      "maxRadius": 8.0,
+      "area": 350,
+      "colorId": 8
+    },
+    {
+      "id": 197,
+      "labelX": 788,
+      "labelY": 333,
+      "maxRadius": 8.0,
+      "area": 348,
+      "colorId": 4
+    },
+    {
+      "id": 198,
+      "labelX": 815,
+      "labelY": 333,
+      "maxRadius": 8.0,
+      "area": 346,
+      "colorId": 4
+    },
+    {
+      "id": 199,
+      "labelX": 156,
+      "labelY": 327,
+      "maxRadius": 4.0,
+      "area": 106,
+      "colorId": 13
+    },
+    {
+      "id": 200,
+      "labelX": 200,
+      "labelY": 331,
+      "maxRadius": 5.6,
+      "area": 180,
+      "colorId": 8
+    },
+    {
+      "id": 201,
+      "labelX": 599,
+      "labelY": 330,
+      "maxRadius": 4.0,
+      "area": 105,
+      "colorId": 4
+    },
+    {
+      "id": 202,
+      "labelX": 834,
+      "labelY": 333,
+      "maxRadius": 5.8,
+      "area": 176,
+      "colorId": 4
+    },
+    {
+      "id": 203,
+      "labelX": 568,
+      "labelY": 362,
+      "maxRadius": 2.8,
+      "area": 218,
+      "colorId": 1
+    },
+    {
+      "id": 204,
+      "labelX": 861,
+      "labelY": 350,
+      "maxRadius": 11.8,
+      "area": 1974,
+      "colorId": 5
+    },
+    {
+      "id": 205,
+      "labelX": 934,
+      "labelY": 342,
+      "maxRadius": 6.0,
+      "area": 295,
+      "colorId": 30
+    },
+    {
+      "id": 206,
+      "labelX": 106,
+      "labelY": 353,
+      "maxRadius": 14.6,
+      "area": 1766,
+      "colorId": 19
+    },
+    {
+      "id": 207,
+      "labelX": 613,
+      "labelY": 347,
+      "maxRadius": 4.0,
+      "area": 119,
+      "colorId": 8
+    },
+    {
+      "id": 208,
+      "labelX": 632,
+      "labelY": 350,
+      "maxRadius": 8.0,
+      "area": 367,
+      "colorId": 4
+    },
+    {
+      "id": 209,
+      "labelX": 661,
+      "labelY": 349,
+      "maxRadius": 8.4,
+      "area": 461,
+      "colorId": 11
+    },
+    {
+      "id": 210,
+      "labelX": 695,
+      "labelY": 349,
+      "maxRadius": 8.4,
+      "area": 465,
+      "colorId": 8
+    },
+    {
+      "id": 211,
+      "labelX": 726,
+      "labelY": 349,
+      "maxRadius": 8.6,
+      "area": 391,
+      "colorId": 8
+    },
+    {
+      "id": 212,
+      "labelX": 756,
+      "labelY": 350,
+      "maxRadius": 8.0,
+      "area": 356,
+      "colorId": 11
+    },
+    {
+      "id": 213,
+      "labelX": 778,
+      "labelY": 349,
+      "maxRadius": 8.0,
+      "area": 335,
+      "colorId": 8
+    },
+    {
+      "id": 214,
+      "labelX": 805,
+      "labelY": 350,
+      "maxRadius": 8.0,
+      "area": 363,
+      "colorId": 11
+    },
+    {
+      "id": 215,
+      "labelX": 830,
+      "labelY": 349,
+      "maxRadius": 8.4,
+      "area": 368,
+      "colorId": 4
+    },
+    {
+      "id": 216,
+      "labelX": 966,
+      "labelY": 355,
+      "maxRadius": 3.6,
+      "area": 745,
+      "colorId": 1
+    },
+    {
+      "id": 217,
+      "labelX": 191,
+      "labelY": 346,
+      "maxRadius": 2.8,
+      "area": 44,
+      "colorId": 18
+    },
+    {
+      "id": 218,
+      "labelX": 580,
+      "labelY": 352,
+      "maxRadius": 4.2,
+      "area": 192,
+      "colorId": 1
+    },
+    {
+      "id": 219,
+      "labelX": 596,
+      "labelY": 345,
+      "maxRadius": 2.8,
+      "area": 51,
+      "colorId": 1
+    },
+    {
+      "id": 220,
+      "labelX": 1002,
+      "labelY": 432,
+      "maxRadius": 15.6,
+      "area": 4258,
+      "colorId": 30
+    },
+    {
+      "id": 221,
+      "labelX": 878,
+      "labelY": 354,
+      "maxRadius": 3.0,
+      "area": 641,
+      "colorId": 19
+    },
+    {
+      "id": 222,
+      "labelX": 920,
+      "labelY": 382,
+      "maxRadius": 19.0,
+      "area": 2659,
+      "colorId": 13
+    },
+    {
+      "id": 223,
+      "labelX": 400,
+      "labelY": 352,
+      "maxRadius": 3.2,
+      "area": 332,
+      "colorId": 9
+    },
+    {
+      "id": 224,
+      "labelX": 715,
+      "labelY": 365,
+      "maxRadius": 7.6,
+      "area": 416,
+      "colorId": 11
+    },
+    {
+      "id": 225,
+      "labelX": 770,
+      "labelY": 365,
+      "maxRadius": 7.4,
+      "area": 327,
+      "colorId": 8
+    },
+    {
+      "id": 226,
+      "labelX": 366,
+      "labelY": 363,
+      "maxRadius": 7.0,
+      "area": 694,
+      "colorId": 32
+    },
+    {
+      "id": 227,
+      "labelX": 629,
+      "labelY": 364,
+      "maxRadius": 5.0,
+      "area": 153,
+      "colorId": 8
+    },
+    {
+      "id": 228,
+      "labelX": 648,
+      "labelY": 365,
+      "maxRadius": 7.6,
+      "area": 380,
+      "colorId": 8
+    },
+    {
+      "id": 229,
+      "labelX": 680,
+      "labelY": 365,
+      "maxRadius": 8.0,
+      "area": 424,
+      "colorId": 14
+    },
+    {
+      "id": 230,
+      "labelX": 745,
+      "labelY": 365,
+      "maxRadius": 7.6,
+      "area": 336,
+      "colorId": 14
+    },
+    {
+      "id": 231,
+      "labelX": 796,
+      "labelY": 365,
+      "maxRadius": 7.2,
+      "area": 323,
+      "colorId": 14
+    },
+    {
+      "id": 232,
+      "labelX": 822,
+      "labelY": 365,
+      "maxRadius": 7.2,
+      "area": 299,
+      "colorId": 11
+    },
+    {
+      "id": 233,
+      "labelX": 585,
+      "labelY": 362,
+      "maxRadius": 3.0,
+      "area": 48,
+      "colorId": 1
+    },
+    {
+      "id": 234,
+      "labelX": 845,
+      "labelY": 365,
+      "maxRadius": 5.8,
+      "area": 165,
+      "colorId": 11
+    },
+    {
+      "id": 235,
+      "labelX": 152,
+      "labelY": 371,
+      "maxRadius": 6.0,
+      "area": 252,
+      "colorId": 13
+    },
+    {
+      "id": 236,
+      "labelX": 876,
+      "labelY": 366,
+      "maxRadius": 2.2,
+      "area": 71,
+      "colorId": 3
+    },
+    {
+      "id": 237,
+      "labelX": 577,
+      "labelY": 363,
+      "maxRadius": 3.0,
+      "area": 51,
+      "colorId": 1
+    },
+    {
+      "id": 238,
+      "labelX": 862,
+      "labelY": 441,
+      "maxRadius": 16.0,
+      "area": 4540,
+      "colorId": 31
+    },
+    {
+      "id": 239,
+      "labelX": 611,
+      "labelY": 367,
+      "maxRadius": 1.4,
+      "area": 29,
+      "colorId": 1
+    },
+    {
+      "id": 240,
+      "labelX": 305,
+      "labelY": 375,
+      "maxRadius": 5.0,
+      "area": 2387,
+      "colorId": 9
+    },
+    {
+      "id": 241,
+      "labelX": 216,
+      "labelY": 374,
+      "maxRadius": 2.8,
+      "area": 33,
+      "colorId": 1
+    },
+    {
+      "id": 242,
+      "labelX": 370,
+      "labelY": 380,
+      "maxRadius": 4.0,
+      "area": 1347,
+      "colorId": 6
+    },
+    {
+      "id": 243,
+      "labelX": 867,
+      "labelY": 385,
+      "maxRadius": 2.2,
+      "area": 256,
+      "colorId": 3
+    },
+    {
+      "id": 244,
+      "labelX": 122,
+      "labelY": 413,
+      "maxRadius": 14.0,
+      "area": 2290,
+      "colorId": 17
+    },
+    {
+      "id": 245,
+      "labelX": 268,
+      "labelY": 412,
+      "maxRadius": 26.8,
+      "area": 4594,
+      "colorId": 32
+    },
+    {
+      "id": 246,
+      "labelX": 492,
+      "labelY": 412,
+      "maxRadius": 27.0,
+      "area": 4728,
+      "colorId": 32
+    },
+    {
+      "id": 247,
+      "labelX": 208,
+      "labelY": 393,
+      "maxRadius": 8.0,
+      "area": 2123,
+      "colorId": 9
+    },
+    {
+      "id": 248,
+      "labelX": 227,
+      "labelY": 418,
+      "maxRadius": 4.4,
+      "area": 1875,
+      "colorId": 9
+    },
+    {
+      "id": 249,
+      "labelX": 300,
+      "labelY": 394,
+      "maxRadius": 4.0,
+      "area": 625,
+      "colorId": 9
+    },
+    {
+      "id": 250,
+      "labelX": 306,
+      "labelY": 448,
+      "maxRadius": 3.0,
+      "area": 443,
+      "colorId": 9
+    },
+    {
+      "id": 251,
+      "labelX": 316,
+      "labelY": 390,
+      "maxRadius": 5.0,
+      "area": 1163,
+      "colorId": 6
+    },
+    {
+      "id": 252,
+      "labelX": 454,
+      "labelY": 420,
+      "maxRadius": 3.0,
+      "area": 419,
+      "colorId": 9
+    },
+    {
+      "id": 253,
+      "labelX": 460,
+      "labelY": 466,
+      "maxRadius": 5.0,
+      "area": 745,
+      "colorId": 9
+    },
+    {
+      "id": 254,
+      "labelX": 519,
+      "labelY": 428,
+      "maxRadius": 2.8,
+      "area": 304,
+      "colorId": 9
+    },
+    {
+      "id": 255,
+      "labelX": 550,
+      "labelY": 453,
+      "maxRadius": 5.0,
+      "area": 1696,
+      "colorId": 6
+    },
+    {
+      "id": 256,
+      "labelX": 581,
+      "labelY": 411,
+      "maxRadius": 20.0,
+      "area": 5444,
+      "colorId": 26
+    },
+    {
+      "id": 257,
+      "labelX": 763,
+      "labelY": 413,
+      "maxRadius": 25.6,
+      "area": 4313,
+      "colorId": 32
+    },
+    {
+      "id": 258,
+      "labelX": 971,
+      "labelY": 395,
+      "maxRadius": 2.0,
+      "area": 143,
+      "colorId": 19
+    },
+    {
+      "id": 259,
+      "labelX": 980,
+      "labelY": 400,
+      "maxRadius": 6.0,
+      "area": 415,
+      "colorId": 3
+    },
+    {
+      "id": 260,
+      "labelX": 501,
+      "labelY": 470,
+      "maxRadius": 4.2,
+      "area": 1486,
+      "colorId": 6
+    },
+    {
+      "id": 261,
+      "labelX": 313,
+      "labelY": 399,
+      "maxRadius": 3.0,
+      "area": 1726,
+      "colorId": 18
+    },
+    {
+      "id": 262,
+      "labelX": 384,
+      "labelY": 400,
+      "maxRadius": 3.6,
+      "area": 1192,
+      "colorId": 18
+    },
+    {
+      "id": 263,
+      "labelX": 728,
+      "labelY": 441,
+      "maxRadius": 4.0,
+      "area": 629,
+      "colorId": 6
+    },
+    {
+      "id": 264,
+      "labelX": 720,
+      "labelY": 402,
+      "maxRadius": 3.0,
+      "area": 1888,
+      "colorId": 18
+    },
+    {
+      "id": 265,
+      "labelX": 617,
+      "labelY": 426,
+      "maxRadius": 3.0,
+      "area": 1788,
+      "colorId": 18
+    },
+    {
+      "id": 266,
+      "labelX": 320,
+      "labelY": 405,
+      "maxRadius": 3.0,
+      "area": 150,
+      "colorId": 24
+    },
+    {
+      "id": 267,
+      "labelX": 328,
+      "labelY": 406,
+      "maxRadius": 4.0,
+      "area": 176,
+      "colorId": 24
+    },
+    {
+      "id": 268,
+      "labelX": 415,
+      "labelY": 430,
+      "maxRadius": 2.8,
+      "area": 646,
+      "colorId": 18
+    },
+    {
+      "id": 269,
+      "labelX": 433,
+      "labelY": 406,
+      "maxRadius": 4.0,
+      "area": 325,
+      "colorId": 24
+    },
+    {
+      "id": 270,
+      "labelX": 162,
+      "labelY": 408,
+      "maxRadius": 5.0,
+      "area": 173,
+      "colorId": 13
+    },
+    {
+      "id": 271,
+      "labelX": 627,
+      "labelY": 412,
+      "maxRadius": 6.0,
+      "area": 242,
+      "colorId": 24
+    },
+    {
+      "id": 272,
+      "labelX": 710,
+      "labelY": 411,
+      "maxRadius": 6.0,
+      "area": 256,
+      "colorId": 24
+    },
+    {
+      "id": 273,
+      "labelX": 882,
+      "labelY": 410,
+      "maxRadius": 5.0,
+      "area": 280,
+      "colorId": 13
+    },
+    {
+      "id": 274,
+      "labelX": 127,
+      "labelY": 567,
+      "maxRadius": 12.0,
+      "area": 12698,
+      "colorId": 17
+    },
+    {
+      "id": 275,
+      "labelX": 732,
+      "labelY": 415,
+      "maxRadius": 3.2,
+      "area": 551,
+      "colorId": 6
+    },
+    {
+      "id": 276,
+      "labelX": 762,
+      "labelY": 479,
+      "maxRadius": 4.4,
+      "area": 917,
+      "colorId": 6
+    },
+    {
+      "id": 277,
+      "labelX": 804,
+      "labelY": 416,
+      "maxRadius": 4.2,
+      "area": 628,
+      "colorId": 6
+    },
+    {
+      "id": 278,
+      "labelX": 818,
+      "labelY": 507,
+      "maxRadius": 5.0,
+      "area": 729,
+      "colorId": 6
+    },
+    {
+      "id": 279,
+      "labelX": 823,
+      "labelY": 455,
+      "maxRadius": 5.0,
+      "area": 807,
+      "colorId": 6
+    },
+    {
+      "id": 280,
+      "labelX": 518,
+      "labelY": 508,
+      "maxRadius": 26.4,
+      "area": 4369,
+      "colorId": 32
+    },
+    {
+      "id": 281,
+      "labelX": 610,
+      "labelY": 442,
+      "maxRadius": 4.0,
+      "area": 608,
+      "colorId": 6
+    },
+    {
+      "id": 282,
+      "labelX": 243,
+      "labelY": 508,
+      "maxRadius": 26.0,
+      "area": 4313,
+      "colorId": 32
+    },
+    {
+      "id": 283,
+      "labelX": 787,
+      "labelY": 509,
+      "maxRadius": 25.0,
+      "area": 4057,
+      "colorId": 32
+    },
+    {
+      "id": 284,
+      "labelX": 605,
+      "labelY": 466,
+      "maxRadius": 3.0,
+      "area": 444,
+      "colorId": 6
+    },
+    {
+      "id": 285,
+      "labelX": 0,
+      "labelY": 434,
+      "maxRadius": 3.0,
+      "area": 604,
+      "colorId": 1
+    },
+    {
+      "id": 286,
+      "labelX": 328,
+      "labelY": 453,
+      "maxRadius": 4.4,
+      "area": 342,
+      "colorId": 24
+    },
+    {
+      "id": 287,
+      "labelX": 436,
+      "labelY": 452,
+      "maxRadius": 5.4,
+      "area": 303,
+      "colorId": 24
+    },
+    {
+      "id": 288,
+      "labelX": 627,
+      "labelY": 440,
+      "maxRadius": 6.0,
+      "area": 275,
+      "colorId": 24
+    },
+    {
+      "id": 289,
+      "labelX": 710,
+      "labelY": 441,
+      "maxRadius": 7.0,
+      "area": 325,
+      "colorId": 24
+    },
+    {
+      "id": 290,
+      "labelX": 926,
+      "labelY": 451,
+      "maxRadius": 4.2,
+      "area": 144,
+      "colorId": 1
+    },
+    {
+      "id": 291,
+      "labelX": 159,
+      "labelY": 442,
+      "maxRadius": 3.2,
+      "area": 60,
+      "colorId": 27
+    },
+    {
+      "id": 292,
+      "labelX": 0,
+      "labelY": 546,
+      "maxRadius": 16.0,
+      "area": 6835,
+      "colorId": 29
+    },
+    {
+      "id": 293,
+      "labelX": 1020,
+      "labelY": 450,
+      "maxRadius": 4.0,
+      "area": 631,
+      "colorId": 18
+    },
+    {
+      "id": 294,
+      "labelX": 141,
+      "labelY": 454,
+      "maxRadius": 2.8,
+      "area": 39,
+      "colorId": 27
+    },
+    {
+      "id": 295,
+      "labelX": 919,
+      "labelY": 462,
+      "maxRadius": 3.0,
+      "area": 63,
+      "colorId": 1
+    },
+    {
+      "id": 296,
+      "labelX": 1023,
+      "labelY": 548,
+      "maxRadius": 18.0,
+      "area": 6225,
+      "colorId": 30
+    },
+    {
+      "id": 297,
+      "labelX": 899,
+      "labelY": 463,
+      "maxRadius": 7.0,
+      "area": 394,
+      "colorId": 13
+    },
+    {
+      "id": 298,
+      "labelX": 866,
+      "labelY": 464,
+      "maxRadius": 6.0,
+      "area": 194,
+      "colorId": 13
+    },
+    {
+      "id": 299,
+      "labelX": 33,
+      "labelY": 464,
+      "maxRadius": 2.2,
+      "area": 253,
+      "colorId": 7
+    },
+    {
+      "id": 300,
+      "labelX": 437,
+      "labelY": 471,
+      "maxRadius": 6.4,
+      "area": 180,
+      "colorId": 24
+    },
+    {
+      "id": 301,
+      "labelX": 916,
+      "labelY": 476,
+      "maxRadius": 10.0,
+      "area": 663,
+      "colorId": 31
+    },
+    {
+      "id": 302,
+      "labelX": 64,
+      "labelY": 466,
+      "maxRadius": 2.0,
+      "area": 169,
+      "colorId": 7
+    },
+    {
+      "id": 303,
+      "labelX": 340,
+      "labelY": 504,
+      "maxRadius": 5.0,
+      "area": 1243,
+      "colorId": 17
+    },
+    {
+      "id": 304,
+      "labelX": 627,
+      "labelY": 472,
+      "maxRadius": 6.0,
+      "area": 242,
+      "colorId": 24
+    },
+    {
+      "id": 305,
+      "labelX": 710,
+      "labelY": 473,
+      "maxRadius": 7.0,
+      "area": 303,
+      "colorId": 24
+    },
+    {
+      "id": 306,
+      "labelX": 375,
+      "labelY": 478,
+      "maxRadius": 3.2,
+      "area": 164,
+      "colorId": 28
+    },
+    {
+      "id": 307,
+      "labelX": 389,
+      "labelY": 476,
+      "maxRadius": 3.0,
+      "area": 166,
+      "colorId": 28
+    },
+    {
+      "id": 308,
+      "labelX": 868,
+      "labelY": 529,
+      "maxRadius": 11.4,
+      "area": 12873,
+      "colorId": 17
+    },
+    {
+      "id": 309,
+      "labelX": 992,
+      "labelY": 481,
+      "maxRadius": 3.0,
+      "area": 324,
+      "colorId": 19
+    },
+    {
+      "id": 310,
+      "labelX": 429,
+      "labelY": 483,
+      "maxRadius": 6.2,
+      "area": 2458,
+      "colorId": 20
+    },
+    {
+      "id": 311,
+      "labelX": 188,
+      "labelY": 481,
+      "maxRadius": 2.8,
+      "area": 60,
+      "colorId": 23
+    },
+    {
+      "id": 312,
+      "labelX": 961,
+      "labelY": 479,
+      "maxRadius": 2.0,
+      "area": 54,
+      "colorId": 19
+    },
+    {
+      "id": 313,
+      "labelX": 948,
+      "labelY": 482,
+      "maxRadius": 2.0,
+      "area": 210,
+      "colorId": 19
+    },
+    {
+      "id": 314,
+      "labelX": 1003,
+      "labelY": 486,
+      "maxRadius": 7.0,
+      "area": 733,
+      "colorId": 3
+    },
+    {
+      "id": 315,
+      "labelX": 959,
+      "labelY": 489,
+      "maxRadius": 7.0,
+      "area": 683,
+      "colorId": 3
+    },
+    {
+      "id": 316,
+      "labelX": 13,
+      "labelY": 484,
+      "maxRadius": 1.0,
+      "area": 26,
+      "colorId": 7
+    },
+    {
+      "id": 317,
+      "labelX": 344,
+      "labelY": 487,
+      "maxRadius": 3.6,
+      "area": 198,
+      "colorId": 16
+    },
+    {
+      "id": 318,
+      "labelX": 316,
+      "labelY": 491,
+      "maxRadius": 3.6,
+      "area": 224,
+      "colorId": 16
+    },
+    {
+      "id": 319,
+      "labelX": 63,
+      "labelY": 487,
+      "maxRadius": 1.0,
+      "area": 27,
+      "colorId": 7
+    },
+    {
+      "id": 320,
+      "labelX": 23,
+      "labelY": 488,
+      "maxRadius": 1.0,
+      "area": 37,
+      "colorId": 7
+    },
+    {
+      "id": 321,
+      "labelX": 865,
+      "labelY": 493,
+      "maxRadius": 2.2,
+      "area": 30,
+      "colorId": 27
+    },
+    {
+      "id": 322,
+      "labelX": 67,
+      "labelY": 510,
+      "maxRadius": 2.2,
+      "area": 115,
+      "colorId": 3
+    },
+    {
+      "id": 323,
+      "labelX": 72,
+      "labelY": 490,
+      "maxRadius": 1.0,
+      "area": 34,
+      "colorId": 3
+    },
+    {
+      "id": 324,
+      "labelX": 374,
+      "labelY": 501,
+      "maxRadius": 3.2,
+      "area": 164,
+      "colorId": 28
+    },
+    {
+      "id": 325,
+      "labelX": 402,
+      "labelY": 496,
+      "maxRadius": 3.6,
+      "area": 49,
+      "colorId": 23
+    },
+    {
+      "id": 326,
+      "labelX": 851,
+      "labelY": 499,
+      "maxRadius": 3.0,
+      "area": 49,
+      "colorId": 23
+    },
+    {
+      "id": 327,
+      "labelX": 20,
+      "labelY": 496,
+      "maxRadius": 1.0,
+      "area": 30,
+      "colorId": 3
+    },
+    {
+      "id": 328,
+      "labelX": 195,
+      "labelY": 502,
+      "maxRadius": 2.8,
+      "area": 41,
+      "colorId": 27
+    },
+    {
+      "id": 329,
+      "labelX": 710,
+      "labelY": 501,
+      "maxRadius": 5.0,
+      "area": 861,
+      "colorId": 6
+    },
+    {
+      "id": 330,
+      "labelX": 883,
+      "labelY": 506,
+      "maxRadius": 3.6,
+      "area": 60,
+      "colorId": 27
+    },
+    {
+      "id": 331,
+      "labelX": 168,
+      "labelY": 511,
+      "maxRadius": 3.2,
+      "area": 51,
+      "colorId": 23
+    },
+    {
+      "id": 332,
+      "labelX": 301,
+      "labelY": 530,
+      "maxRadius": 5.0,
+      "area": 181,
+      "colorId": 9
+    },
+    {
+      "id": 333,
+      "labelX": 900,
+      "labelY": 511,
+      "maxRadius": 2.8,
+      "area": 41,
+      "colorId": 27
+    },
+    {
+      "id": 334,
+      "labelX": 676,
+      "labelY": 521,
+      "maxRadius": 14.0,
+      "area": 2539,
+      "colorId": 32
+    },
+    {
+      "id": 335,
+      "labelX": 313,
+      "labelY": 522,
+      "maxRadius": 7.0,
+      "area": 1397,
+      "colorId": 8
+    },
+    {
+      "id": 336,
+      "labelX": 461,
+      "labelY": 530,
+      "maxRadius": 4.0,
+      "area": 116,
+      "colorId": 6
+    },
+    {
+      "id": 337,
+      "labelX": 113,
+      "labelY": 516,
+      "maxRadius": 2.8,
+      "area": 42,
+      "colorId": 27
+    },
+    {
+      "id": 338,
+      "labelX": 840,
+      "labelY": 520,
+      "maxRadius": 3.2,
+      "area": 53,
+      "colorId": 27
+    },
+    {
+      "id": 339,
+      "labelX": 903,
+      "labelY": 518,
+      "maxRadius": 3.2,
+      "area": 47,
+      "colorId": 27
+    },
+    {
+      "id": 340,
+      "labelX": 638,
+      "labelY": 526,
+      "maxRadius": 3.0,
+      "area": 48,
+      "colorId": 10
+    },
+    {
+      "id": 341,
+      "labelX": 570,
+      "labelY": 525,
+      "maxRadius": 2.8,
+      "area": 34,
+      "colorId": 5
+    },
+    {
+      "id": 342,
+      "labelX": 136,
+      "labelY": 527,
+      "maxRadius": 3.0,
+      "area": 49,
+      "colorId": 27
+    },
+    {
+      "id": 343,
+      "labelX": 579,
+      "labelY": 528,
+      "maxRadius": 2.2,
+      "area": 32,
+      "colorId": 10
+    },
+    {
+      "id": 344,
+      "labelX": 611,
+      "labelY": 529,
+      "maxRadius": 4.0,
+      "area": 66,
+      "colorId": 17
+    },
+    {
+      "id": 345,
+      "labelX": 189,
+      "labelY": 528,
+      "maxRadius": 3.2,
+      "area": 52,
+      "colorId": 27
+    },
+    {
+      "id": 346,
+      "labelX": 632,
+      "labelY": 532,
+      "maxRadius": 2.2,
+      "area": 165,
+      "colorId": 15
+    },
+    {
+      "id": 347,
+      "labelX": 658,
+      "labelY": 529,
+      "maxRadius": 2.8,
+      "area": 37,
+      "colorId": 17
+    },
+    {
+      "id": 348,
+      "labelX": 12,
+      "labelY": 528,
+      "maxRadius": 3.0,
+      "area": 162,
+      "colorId": 9
+    },
+    {
+      "id": 349,
+      "labelX": 61,
+      "labelY": 528,
+      "maxRadius": 3.0,
+      "area": 75,
+      "colorId": 7
+    },
+    {
+      "id": 350,
+      "labelX": 545,
+      "labelY": 527,
+      "maxRadius": 2.0,
+      "area": 31,
+      "colorId": 15
+    },
+    {
+      "id": 351,
+      "labelX": 540,
+      "labelY": 529,
+      "maxRadius": 2.2,
+      "area": 30,
+      "colorId": 15
+    },
+    {
+      "id": 352,
+      "labelX": 592,
+      "labelY": 532,
+      "maxRadius": 3.0,
+      "area": 46,
+      "colorId": 17
+    },
+    {
+      "id": 353,
+      "labelX": 883,
+      "labelY": 534,
+      "maxRadius": 3.0,
+      "area": 52,
+      "colorId": 27
+    },
+    {
+      "id": 354,
+      "labelX": 545,
+      "labelY": 534,
+      "maxRadius": 2.0,
+      "area": 59,
+      "colorId": 15
+    },
+    {
+      "id": 355,
+      "labelX": 313,
+      "labelY": 532,
+      "maxRadius": 2.0,
+      "area": 499,
+      "colorId": 29
+    },
+    {
+      "id": 356,
+      "labelX": 550,
+      "labelY": 539,
+      "maxRadius": 1.4,
+      "area": 38,
+      "colorId": 15
+    },
+    {
+      "id": 357,
+      "labelX": 649,
+      "labelY": 536,
+      "maxRadius": 2.8,
+      "area": 35,
+      "colorId": 10
+    },
+    {
+      "id": 358,
+      "labelX": 853,
+      "labelY": 538,
+      "maxRadius": 2.8,
+      "area": 48,
+      "colorId": 27
+    },
+    {
+      "id": 359,
+      "labelX": 407,
+      "labelY": 546,
+      "maxRadius": 6.6,
+      "area": 4232,
+      "colorId": 6
+    },
+    {
+      "id": 360,
+      "labelX": 525,
+      "labelY": 538,
+      "maxRadius": 2.8,
+      "area": 36,
+      "colorId": 17
+    },
+    {
+      "id": 361,
+      "labelX": 533,
+      "labelY": 540,
+      "maxRadius": 3.0,
+      "area": 44,
+      "colorId": 9
+    },
+    {
+      "id": 362,
+      "labelX": 579,
+      "labelY": 539,
+      "maxRadius": 2.2,
+      "area": 30,
+      "colorId": 1
+    },
+    {
+      "id": 363,
+      "labelX": 642,
+      "labelY": 538,
+      "maxRadius": 2.2,
+      "area": 65,
+      "colorId": 1
+    },
+    {
+      "id": 364,
+      "labelX": 723,
+      "labelY": 541,
+      "maxRadius": 5.0,
+      "area": 1463,
+      "colorId": 6
+    },
+    {
+      "id": 365,
+      "labelX": 158,
+      "labelY": 541,
+      "maxRadius": 3.2,
+      "area": 86,
+      "colorId": 23
+    },
+    {
+      "id": 366,
+      "labelX": 600,
+      "labelY": 540,
+      "maxRadius": 2.2,
+      "area": 34,
+      "colorId": 5
+    },
+    {
+      "id": 367,
+      "labelX": 657,
+      "labelY": 541,
+      "maxRadius": 2.2,
+      "area": 33,
+      "colorId": 10
+    },
+    {
+      "id": 368,
+      "labelX": 566,
+      "labelY": 542,
+      "maxRadius": 3.2,
+      "area": 41,
+      "colorId": 10
+    },
+    {
+      "id": 369,
+      "labelX": 607,
+      "labelY": 543,
+      "maxRadius": 2.8,
+      "area": 39,
+      "colorId": 10
+    },
+    {
+      "id": 370,
+      "labelX": 510,
+      "labelY": 543,
+      "maxRadius": 2.8,
+      "area": 39,
+      "colorId": 10
+    },
+    {
+      "id": 371,
+      "labelX": 668,
+      "labelY": 547,
+      "maxRadius": 3.6,
+      "area": 58,
+      "colorId": 5
+    },
+    {
+      "id": 372,
+      "labelX": 861,
+      "labelY": 546,
+      "maxRadius": 2.8,
+      "area": 36,
+      "colorId": 23
+    },
+    {
+      "id": 373,
+      "labelX": 896,
+      "labelY": 543,
+      "maxRadius": 2.8,
+      "area": 40,
+      "colorId": 23
+    },
+    {
+      "id": 374,
+      "labelX": 549,
+      "labelY": 546,
+      "maxRadius": 3.2,
+      "area": 49,
+      "colorId": 10
+    },
+    {
+      "id": 375,
+      "labelX": 77,
+      "labelY": 551,
+      "maxRadius": 6.4,
+      "area": 190,
+      "colorId": 13
+    },
+    {
+      "id": 376,
+      "labelX": 532,
+      "labelY": 547,
+      "maxRadius": 2.2,
+      "area": 42,
+      "colorId": 10
+    },
+    {
+      "id": 377,
+      "labelX": 541,
+      "labelY": 549,
+      "maxRadius": 2.8,
+      "area": 30,
+      "colorId": 10
+    },
+    {
+      "id": 378,
+      "labelX": 687,
+      "labelY": 548,
+      "maxRadius": 4.0,
+      "area": 708,
+      "colorId": 6
+    },
+    {
+      "id": 379,
+      "labelX": 586,
+      "labelY": 548,
+      "maxRadius": 2.8,
+      "area": 82,
+      "colorId": 15
+    },
+    {
+      "id": 380,
+      "labelX": 184,
+      "labelY": 551,
+      "maxRadius": 2.8,
+      "area": 51,
+      "colorId": 23
+    },
+    {
+      "id": 381,
+      "labelX": 662,
+      "labelY": 554,
+      "maxRadius": 2.2,
+      "area": 139,
+      "colorId": 15
+    },
+    {
+      "id": 382,
+      "labelX": 498,
+      "labelY": 555,
+      "maxRadius": 2.2,
+      "area": 42,
+      "colorId": 10
+    },
+    {
+      "id": 383,
+      "labelX": 580,
+      "labelY": 554,
+      "maxRadius": 2.0,
+      "area": 71,
+      "colorId": 15
+    },
+    {
+      "id": 384,
+      "labelX": 625,
+      "labelY": 554,
+      "maxRadius": 2.0,
+      "area": 92,
+      "colorId": 15
+    },
+    {
+      "id": 385,
+      "labelX": 678,
+      "labelY": 553,
+      "maxRadius": 2.2,
+      "area": 32,
+      "colorId": 10
+    },
+    {
+      "id": 386,
+      "labelX": 512,
+      "labelY": 554,
+      "maxRadius": 2.0,
+      "area": 124,
+      "colorId": 15
+    },
+    {
+      "id": 387,
+      "labelX": 653,
+      "labelY": 554,
+      "maxRadius": 1.4,
+      "area": 41,
+      "colorId": 15
+    },
+    {
+      "id": 388,
+      "labelX": 191,
+      "labelY": 558,
+      "maxRadius": 3.2,
+      "area": 61,
+      "colorId": 23
+    },
+    {
+      "id": 389,
+      "labelX": 558,
+      "labelY": 556,
+      "maxRadius": 2.8,
+      "area": 42,
+      "colorId": 10
+    },
+    {
+      "id": 390,
+      "labelX": 670,
+      "labelY": 563,
+      "maxRadius": 2.8,
+      "area": 58,
+      "colorId": 5
+    },
+    {
+      "id": 391,
+      "labelX": 501,
+      "labelY": 713,
+      "maxRadius": 20.0,
+      "area": 24826,
+      "colorId": 32
+    },
+    {
+      "id": 392,
+      "labelX": 544,
+      "labelY": 563,
+      "maxRadius": 6.6,
+      "area": 649,
+      "colorId": 22
+    },
+    {
+      "id": 393,
+      "labelX": 569,
+      "labelY": 558,
+      "maxRadius": 3.2,
+      "area": 55,
+      "colorId": 5
+    },
+    {
+      "id": 394,
+      "labelX": 780,
+      "labelY": 569,
+      "maxRadius": 14.8,
+      "area": 13911,
+      "colorId": 26
+    },
+    {
+      "id": 395,
+      "labelX": 227,
+      "labelY": 561,
+      "maxRadius": 5.8,
+      "area": 173,
+      "colorId": 1
+    },
+    {
+      "id": 396,
+      "labelX": 273,
+      "labelY": 557,
+      "maxRadius": 1.4,
+      "area": 27,
+      "colorId": 1
+    },
+    {
+      "id": 397,
+      "labelX": 321,
+      "labelY": 557,
+      "maxRadius": 2.0,
+      "area": 42,
+      "colorId": 1
+    },
+    {
+      "id": 398,
+      "labelX": 376,
+      "labelY": 556,
+      "maxRadius": 1.0,
+      "area": 33,
+      "colorId": 1
+    },
+    {
+      "id": 399,
+      "labelX": 502,
+      "labelY": 560,
+      "maxRadius": 3.0,
+      "area": 41,
+      "colorId": 18
+    },
+    {
+      "id": 400,
+      "labelX": 704,
+      "labelY": 562,
+      "maxRadius": 5.2,
+      "area": 156,
+      "colorId": 1
+    },
+    {
+      "id": 401,
+      "labelX": 756,
+      "labelY": 565,
+      "maxRadius": 5.0,
+      "area": 128,
+      "colorId": 1
+    },
+    {
+      "id": 402,
+      "labelX": 144,
+      "labelY": 560,
+      "maxRadius": 3.6,
+      "area": 58,
+      "colorId": 27
+    },
+    {
+      "id": 403,
+      "labelX": 593,
+      "labelY": 559,
+      "maxRadius": 1.4,
+      "area": 27,
+      "colorId": 15
+    },
+    {
+      "id": 404,
+      "labelX": 162,
+      "labelY": 562,
+      "maxRadius": 2.8,
+      "area": 35,
+      "colorId": 23
+    },
+    {
+      "id": 405,
+      "labelX": 613,
+      "labelY": 560,
+      "maxRadius": 2.2,
+      "area": 48,
+      "colorId": 10
+    },
+    {
+      "id": 406,
+      "labelX": 620,
+      "labelY": 566,
+      "maxRadius": 4.0,
+      "area": 126,
+      "colorId": 18
+    },
+    {
+      "id": 407,
+      "labelX": 67,
+      "labelY": 561,
+      "maxRadius": 2.0,
+      "area": 66,
+      "colorId": 3
+    },
+    {
+      "id": 408,
+      "labelX": 169,
+      "labelY": 566,
+      "maxRadius": 2.8,
+      "area": 41,
+      "colorId": 23
+    },
+    {
+      "id": 409,
+      "labelX": 875,
+      "labelY": 565,
+      "maxRadius": 3.0,
+      "area": 52,
+      "colorId": 20
+    },
+    {
+      "id": 410,
+      "labelX": 40,
+      "labelY": 567,
+      "maxRadius": 7.0,
+      "area": 820,
+      "colorId": 9
+    },
+    {
+      "id": 411,
+      "labelX": 277,
+      "labelY": 565,
+      "maxRadius": 2.0,
+      "area": 41,
+      "colorId": 1
+    },
+    {
+      "id": 412,
+      "labelX": 212,
+      "labelY": 564,
+      "maxRadius": 1.4,
+      "area": 27,
+      "colorId": 1
+    },
+    {
+      "id": 413,
+      "labelX": 494,
+      "labelY": 564,
+      "maxRadius": 2.0,
+      "area": 26,
+      "colorId": 17
+    },
+    {
+      "id": 414,
+      "labelX": 846,
+      "labelY": 568,
+      "maxRadius": 2.8,
+      "area": 39,
+      "colorId": 20
+    },
+    {
+      "id": 415,
+      "labelX": 678,
+      "labelY": 564,
+      "maxRadius": 2.0,
+      "area": 25,
+      "colorId": 17
+    },
+    {
+      "id": 416,
+      "labelX": 837,
+      "labelY": 567,
+      "maxRadius": 2.8,
+      "area": 47,
+      "colorId": 20
+    },
+    {
+      "id": 417,
+      "labelX": 943,
+      "labelY": 565,
+      "maxRadius": 2.2,
+      "area": 33,
+      "colorId": 23
+    },
+    {
+      "id": 418,
+      "labelX": 76,
+      "labelY": 572,
+      "maxRadius": 8.0,
+      "area": 391,
+      "colorId": 32
+    },
+    {
+      "id": 419,
+      "labelX": 91,
+      "labelY": 568,
+      "maxRadius": 4.0,
+      "area": 215,
+      "colorId": 32
+    },
+    {
+      "id": 420,
+      "labelX": 636,
+      "labelY": 567,
+      "maxRadius": 2.8,
+      "area": 43,
+      "colorId": 10
+    },
+    {
+      "id": 421,
+      "labelX": 642,
+      "labelY": 567,
+      "maxRadius": 2.8,
+      "area": 76,
+      "colorId": 17
+    },
+    {
+      "id": 422,
+      "labelX": 970,
+      "labelY": 569,
+      "maxRadius": 5.0,
+      "area": 562,
+      "colorId": 18
+    },
+    {
+      "id": 423,
+      "labelX": 163,
+      "labelY": 569,
+      "maxRadius": 2.2,
+      "area": 28,
+      "colorId": 23
+    },
+    {
+      "id": 424,
+      "labelX": 482,
+      "labelY": 570,
+      "maxRadius": 3.2,
+      "area": 42,
+      "colorId": 17
+    },
+    {
+      "id": 425,
+      "labelX": 675,
+      "labelY": 570,
+      "maxRadius": 4.0,
+      "area": 60,
+      "colorId": 5
+    },
+    {
+      "id": 426,
+      "labelX": 514,
+      "labelY": 573,
+      "maxRadius": 2.8,
+      "area": 32,
+      "colorId": 10
+    },
+    {
+      "id": 427,
+      "labelX": 647,
+      "labelY": 605,
+      "maxRadius": 8.8,
+      "area": 816,
+      "colorId": 8
+    },
+    {
+      "id": 428,
+      "labelX": 178,
+      "labelY": 576,
+      "maxRadius": 2.2,
+      "area": 30,
+      "colorId": 23
+    },
+    {
+      "id": 429,
+      "labelX": 516,
+      "labelY": 610,
+      "maxRadius": 8.6,
+      "area": 799,
+      "colorId": 11
+    },
+    {
+      "id": 430,
+      "labelX": 538,
+      "labelY": 607,
+      "maxRadius": 9.6,
+      "area": 1631,
+      "colorId": 14
+    },
+    {
+      "id": 431,
+      "labelX": 579,
+      "labelY": 607,
+      "maxRadius": 11.0,
+      "area": 904,
+      "colorId": 22
+    },
+    {
+      "id": 432,
+      "labelX": 601,
+      "labelY": 608,
+      "maxRadius": 10.2,
+      "area": 865,
+      "colorId": 11
+    },
+    {
+      "id": 433,
+      "labelX": 624,
+      "labelY": 605,
+      "maxRadius": 12.0,
+      "area": 1095,
+      "colorId": 22
+    },
+    {
+      "id": 434,
+      "labelX": 0,
+      "labelY": 600,
+      "maxRadius": 22.8,
+      "area": 6125,
+      "colorId": 29
+    },
+    {
+      "id": 435,
+      "labelX": 808,
+      "labelY": 581,
+      "maxRadius": 8.0,
+      "area": 289,
+      "colorId": 26
+    },
+    {
+      "id": 436,
+      "labelX": 118,
+      "labelY": 582,
+      "maxRadius": 3.2,
+      "area": 59,
+      "colorId": 27
+    },
+    {
+      "id": 437,
+      "labelX": 495,
+      "labelY": 578,
+      "maxRadius": 2.0,
+      "area": 44,
+      "colorId": 10
+    },
+    {
+      "id": 438,
+      "labelX": 654,
+      "labelY": 577,
+      "maxRadius": 2.8,
+      "area": 42,
+      "colorId": 20
+    },
+    {
+      "id": 439,
+      "labelX": 902,
+      "labelY": 581,
+      "maxRadius": 3.0,
+      "area": 51,
+      "colorId": 23
+    },
+    {
+      "id": 440,
+      "labelX": 946,
+      "labelY": 692,
+      "maxRadius": 18.6,
+      "area": 6323,
+      "colorId": 30
+    },
+    {
+      "id": 441,
+      "labelX": 172,
+      "labelY": 581,
+      "maxRadius": 3.6,
+      "area": 61,
+      "colorId": 23
+    },
+    {
+      "id": 442,
+      "labelX": 836,
+      "labelY": 580,
+      "maxRadius": 3.6,
+      "area": 116,
+      "colorId": 20
+    },
+    {
+      "id": 443,
+      "labelX": 198,
+      "labelY": 584,
+      "maxRadius": 2.2,
+      "area": 41,
+      "colorId": 23
+    },
+    {
+      "id": 444,
+      "labelX": 663,
+      "labelY": 581,
+      "maxRadius": 2.2,
+      "area": 35,
+      "colorId": 2
+    },
+    {
+      "id": 445,
+      "labelX": 679,
+      "labelY": 582,
+      "maxRadius": 3.2,
+      "area": 68,
+      "colorId": 5
+    },
+    {
+      "id": 446,
+      "labelX": 864,
+      "labelY": 580,
+      "maxRadius": 2.8,
+      "area": 41,
+      "colorId": 23
+    },
+    {
+      "id": 447,
+      "labelX": 941,
+      "labelY": 583,
+      "maxRadius": 2.8,
+      "area": 49,
+      "colorId": 23
+    },
+    {
+      "id": 448,
+      "labelX": 154,
+      "labelY": 584,
+      "maxRadius": 3.2,
+      "area": 56,
+      "colorId": 27
+    },
+    {
+      "id": 449,
+      "labelX": 359,
+      "labelY": 586,
+      "maxRadius": 4.4,
+      "area": 2506,
+      "colorId": 9
+    },
+    {
+      "id": 450,
+      "labelX": 883,
+      "labelY": 584,
+      "maxRadius": 2.8,
+      "area": 50,
+      "colorId": 23
+    },
+    {
+      "id": 451,
+      "labelX": 124,
+      "labelY": 587,
+      "maxRadius": 3.2,
+      "area": 64,
+      "colorId": 27
+    },
+    {
+      "id": 452,
+      "labelX": 68,
+      "labelY": 610,
+      "maxRadius": 7.2,
+      "area": 499,
+      "colorId": 20
+    },
+    {
+      "id": 453,
+      "labelX": 185,
+      "labelY": 588,
+      "maxRadius": 3.6,
+      "area": 67,
+      "colorId": 27
+    },
+    {
+      "id": 454,
+      "labelX": 113,
+      "labelY": 589,
+      "maxRadius": 3.6,
+      "area": 60,
+      "colorId": 27
+    },
+    {
+      "id": 455,
+      "labelX": 678,
+      "labelY": 592,
+      "maxRadius": 2.2,
+      "area": 128,
+      "colorId": 15
+    },
+    {
+      "id": 456,
+      "labelX": 722,
+      "labelY": 588,
+      "maxRadius": 3.0,
+      "area": 898,
+      "colorId": 6
+    },
+    {
+      "id": 457,
+      "labelX": 903,
+      "labelY": 588,
+      "maxRadius": 2.2,
+      "area": 36,
+      "colorId": 23
+    },
+    {
+      "id": 458,
+      "labelX": 664,
+      "labelY": 596,
+      "maxRadius": 2.2,
+      "area": 58,
+      "colorId": 15
+    },
+    {
+      "id": 459,
+      "labelX": 503,
+      "labelY": 596,
+      "maxRadius": 2.0,
+      "area": 30,
+      "colorId": 10
+    },
+    {
+      "id": 460,
+      "labelX": 919,
+      "labelY": 594,
+      "maxRadius": 2.8,
+      "area": 50,
+      "colorId": 23
+    },
+    {
+      "id": 461,
+      "labelX": 875,
+      "labelY": 597,
+      "maxRadius": 2.8,
+      "area": 34,
+      "colorId": 23
+    },
+    {
+      "id": 462,
+      "labelX": 79,
+      "labelY": 597,
+      "maxRadius": 2.0,
+      "area": 46,
+      "colorId": 3
+    },
+    {
+      "id": 463,
+      "labelX": 857,
+      "labelY": 601,
+      "maxRadius": 3.2,
+      "area": 56,
+      "colorId": 20
+    },
+    {
+      "id": 464,
+      "labelX": 259,
+      "labelY": 598,
+      "maxRadius": 3.0,
+      "area": 665,
+      "colorId": 9
+    },
+    {
+      "id": 465,
+      "labelX": 315,
+      "labelY": 647,
+      "maxRadius": 3.6,
+      "area": 6302,
+      "colorId": 18
+    },
+    {
+      "id": 466,
+      "labelX": 477,
+      "labelY": 597,
+      "maxRadius": 2.0,
+      "area": 620,
+      "colorId": 9
+    },
+    {
+      "id": 467,
+      "labelX": 491,
+      "labelY": 603,
+      "maxRadius": 2.0,
+      "area": 37,
+      "colorId": 10
+    },
+    {
+      "id": 468,
+      "labelX": 694,
+      "labelY": 600,
+      "maxRadius": 2.0,
+      "area": 491,
+      "colorId": 9
+    },
+    {
+      "id": 469,
+      "labelX": 779,
+      "labelY": 601,
+      "maxRadius": 3.0,
+      "area": 632,
+      "colorId": 6
+    },
+    {
+      "id": 470,
+      "labelX": 922,
+      "labelY": 602,
+      "maxRadius": 3.0,
+      "area": 43,
+      "colorId": 23
+    },
+    {
+      "id": 471,
+      "labelX": 134,
+      "labelY": 603,
+      "maxRadius": 2.2,
+      "area": 237,
+      "colorId": 3
+    },
+    {
+      "id": 472,
+      "labelX": 851,
+      "labelY": 604,
+      "maxRadius": 2.8,
+      "area": 36,
+      "colorId": 20
+    },
+    {
+      "id": 473,
+      "labelX": 683,
+      "labelY": 606,
+      "maxRadius": 2.8,
+      "area": 42,
+      "colorId": 5
+    },
+    {
+      "id": 474,
+      "labelX": 155,
+      "labelY": 611,
+      "maxRadius": 2.2,
+      "area": 67,
+      "colorId": 2
+    },
+    {
+      "id": 475,
+      "labelX": 191,
+      "labelY": 607,
+      "maxRadius": 1.0,
+      "area": 34,
+      "colorId": 3
+    },
+    {
+      "id": 476,
+      "labelX": 80,
+      "labelY": 699,
+      "maxRadius": 2.2,
+      "area": 651,
+      "colorId": 3
+    },
+    {
+      "id": 477,
+      "labelX": 84,
+      "labelY": 608,
+      "maxRadius": 1.0,
+      "area": 28,
+      "colorId": 3
+    },
+    {
+      "id": 478,
+      "labelX": 116,
+      "labelY": 613,
+      "maxRadius": 3.0,
+      "area": 44,
+      "colorId": 23
+    },
+    {
+      "id": 479,
+      "labelX": 440,
+      "labelY": 626,
+      "maxRadius": 4.0,
+      "area": 195,
+      "colorId": 22
+    },
+    {
+      "id": 480,
+      "labelX": 458,
+      "labelY": 627,
+      "maxRadius": 3.6,
+      "area": 313,
+      "colorId": 22
+    },
+    {
+      "id": 481,
+      "labelX": 983,
+      "labelY": 613,
+      "maxRadius": 3.0,
+      "area": 695,
+      "colorId": 19
+    },
+    {
+      "id": 482,
+      "labelX": 936,
+      "labelY": 614,
+      "maxRadius": 3.2,
+      "area": 57,
+      "colorId": 23
+    },
+    {
+      "id": 483,
+      "labelX": 1000,
+      "labelY": 624,
+      "maxRadius": 12.0,
+      "area": 2823,
+      "colorId": 11
+    },
+    {
+      "id": 484,
+      "labelX": 282,
+      "labelY": 638,
+      "maxRadius": 6.0,
+      "area": 630,
+      "colorId": 29
+    },
+    {
+      "id": 485,
+      "labelX": 428,
+      "labelY": 620,
+      "maxRadius": 4.0,
+      "area": 188,
+      "colorId": 22
+    },
+    {
+      "id": 486,
+      "labelX": 838,
+      "labelY": 616,
+      "maxRadius": 3.0,
+      "area": 44,
+      "colorId": 20
+    },
+    {
+      "id": 487,
+      "labelX": 48,
+      "labelY": 615,
+      "maxRadius": 3.0,
+      "area": 675,
+      "colorId": 9
+    },
+    {
+      "id": 488,
+      "labelX": 31,
+      "labelY": 688,
+      "maxRadius": 12.0,
+      "area": 2047,
+      "colorId": 1
+    },
+    {
+      "id": 489,
+      "labelX": 188,
+      "labelY": 662,
+      "maxRadius": 9.0,
+      "area": 2378,
+      "colorId": 32
+    },
+    {
+      "id": 490,
+      "labelX": 828,
+      "labelY": 616,
+      "maxRadius": 2.8,
+      "area": 31,
+      "colorId": 20
+    },
+    {
+      "id": 491,
+      "labelX": 716,
+      "labelY": 624,
+      "maxRadius": 5.0,
+      "area": 144,
+      "colorId": 32
+    },
+    {
+      "id": 492,
+      "labelX": 959,
+      "labelY": 650,
+      "maxRadius": 7.0,
+      "area": 488,
+      "colorId": 3
+    },
+    {
+      "id": 493,
+      "labelX": 104,
+      "labelY": 624,
+      "maxRadius": 3.6,
+      "area": 58,
+      "colorId": 27
+    },
+    {
+      "id": 494,
+      "labelX": 395,
+      "labelY": 636,
+      "maxRadius": 7.0,
+      "area": 731,
+      "colorId": 22
+    },
+    {
+      "id": 495,
+      "labelX": 685,
+      "labelY": 621,
+      "maxRadius": 2.8,
+      "area": 47,
+      "colorId": 5
+    },
+    {
+      "id": 496,
+      "labelX": 756,
+      "labelY": 625,
+      "maxRadius": 5.0,
+      "area": 134,
+      "colorId": 29
+    },
+    {
+      "id": 497,
+      "labelX": 509,
+      "labelY": 623,
+      "maxRadius": 4.0,
+      "area": 111,
+      "colorId": 1
+    },
+    {
+      "id": 498,
+      "labelX": 533,
+      "labelY": 623,
+      "maxRadius": 4.0,
+      "area": 124,
+      "colorId": 4
+    },
+    {
+      "id": 499,
+      "labelX": 557,
+      "labelY": 624,
+      "maxRadius": 4.0,
+      "area": 97,
+      "colorId": 1
+    },
+    {
+      "id": 500,
+      "labelX": 576,
+      "labelY": 623,
+      "maxRadius": 4.0,
+      "area": 123,
+      "colorId": 4
+    },
+    {
+      "id": 501,
+      "labelX": 608,
+      "labelY": 623,
+      "maxRadius": 3.2,
+      "area": 89,
+      "colorId": 1
+    },
+    {
+      "id": 502,
+      "labelX": 626,
+      "labelY": 623,
+      "maxRadius": 4.0,
+      "area": 155,
+      "colorId": 4
+    },
+    {
+      "id": 503,
+      "labelX": 650,
+      "labelY": 623,
+      "maxRadius": 3.0,
+      "area": 93,
+      "colorId": 1
+    },
+    {
+      "id": 504,
+      "labelX": 833,
+      "labelY": 623,
+      "maxRadius": 4.0,
+      "area": 180,
+      "colorId": 5
+    },
+    {
+      "id": 505,
+      "labelX": 335,
+      "labelY": 633,
+      "maxRadius": 5.8,
+      "area": 478,
+      "colorId": 22
+    },
+    {
+      "id": 506,
+      "labelX": 905,
+      "labelY": 627,
+      "maxRadius": 1.4,
+      "area": 29,
+      "colorId": 2
+    },
+    {
+      "id": 507,
+      "labelX": 803,
+      "labelY": 631,
+      "maxRadius": 7.0,
+      "area": 329,
+      "colorId": 26
+    },
+    {
+      "id": 508,
+      "labelX": 874,
+      "labelY": 629,
+      "maxRadius": 2.8,
+      "area": 33,
+      "colorId": 20
+    },
+    {
+      "id": 509,
+      "labelX": 303,
+      "labelY": 633,
+      "maxRadius": 5.0,
+      "area": 142,
+      "colorId": 22
+    },
+    {
+      "id": 510,
+      "labelX": 517,
+      "labelY": 631,
+      "maxRadius": 2.2,
+      "area": 118,
+      "colorId": 1
+    },
+    {
+      "id": 511,
+      "labelX": 689,
+      "labelY": 630,
+      "maxRadius": 2.8,
+      "area": 35,
+      "colorId": 10
+    },
+    {
+      "id": 512,
+      "labelX": 527,
+      "labelY": 665,
+      "maxRadius": 5.0,
+      "area": 1559,
+      "colorId": 9
+    },
+    {
+      "id": 513,
+      "labelX": 638,
+      "labelY": 694,
+      "maxRadius": 5.0,
+      "area": 1596,
+      "colorId": 9
+    },
+    {
+      "id": 514,
+      "labelX": 683,
+      "labelY": 687,
+      "maxRadius": 7.4,
+      "area": 1266,
+      "colorId": 32
+    },
+    {
+      "id": 515,
+      "labelX": 656,
+      "labelY": 638,
+      "maxRadius": 2.0,
+      "area": 28,
+      "colorId": 5
+    },
+    {
+      "id": 516,
+      "labelX": 435,
+      "labelY": 639,
+      "maxRadius": 4.2,
+      "area": 165,
+      "colorId": 22
+    },
+    {
+      "id": 517,
+      "labelX": 649,
+      "labelY": 669,
+      "maxRadius": 4.4,
+      "area": 255,
+      "colorId": 29
+    },
+    {
+      "id": 518,
+      "labelX": 679,
+      "labelY": 635,
+      "maxRadius": 2.0,
+      "area": 77,
+      "colorId": 11
+    },
+    {
+      "id": 519,
+      "labelX": 155,
+      "labelY": 655,
+      "maxRadius": 7.6,
+      "area": 658,
+      "colorId": 22
+    },
+    {
+      "id": 520,
+      "labelX": 446,
+      "labelY": 639,
+      "maxRadius": 4.0,
+      "area": 160,
+      "colorId": 22
+    },
+    {
+      "id": 521,
+      "labelX": 644,
+      "labelY": 643,
+      "maxRadius": 2.2,
+      "area": 94,
+      "colorId": 1
+    },
+    {
+      "id": 522,
+      "labelX": 120,
+      "labelY": 639,
+      "maxRadius": 3.6,
+      "area": 73,
+      "colorId": 23
+    },
+    {
+      "id": 523,
+      "labelX": 572,
+      "labelY": 667,
+      "maxRadius": 2.8,
+      "area": 828,
+      "colorId": 7
+    },
+    {
+      "id": 524,
+      "labelX": 660,
+      "labelY": 644,
+      "maxRadius": 3.6,
+      "area": 64,
+      "colorId": 5
+    },
+    {
+      "id": 525,
+      "labelX": 298,
+      "labelY": 641,
+      "maxRadius": 3.0,
+      "area": 93,
+      "colorId": 29
+    },
+    {
+      "id": 526,
+      "labelX": 95,
+      "labelY": 674,
+      "maxRadius": 9.0,
+      "area": 727,
+      "colorId": 29
+    },
+    {
+      "id": 527,
+      "labelX": 360,
+      "labelY": 641,
+      "maxRadius": 3.0,
+      "area": 168,
+      "colorId": 29
+    },
+    {
+      "id": 528,
+      "labelX": 127,
+      "labelY": 646,
+      "maxRadius": 3.0,
+      "area": 43,
+      "colorId": 27
+    },
+    {
+      "id": 529,
+      "labelX": 828,
+      "labelY": 648,
+      "maxRadius": 3.2,
+      "area": 68,
+      "colorId": 5
+    },
+    {
+      "id": 530,
+      "labelX": 907,
+      "labelY": 645,
+      "maxRadius": 2.8,
+      "area": 46,
+      "colorId": 20
+    },
+    {
+      "id": 531,
+      "labelX": 127,
+      "labelY": 652,
+      "maxRadius": 2.0,
+      "area": 63,
+      "colorId": 2
+    },
+    {
+      "id": 532,
+      "labelX": 949,
+      "labelY": 649,
+      "maxRadius": 3.0,
+      "area": 198,
+      "colorId": 19
+    },
+    {
+      "id": 533,
+      "labelX": 501,
+      "labelY": 653,
+      "maxRadius": 5.0,
+      "area": 122,
+      "colorId": 3
+    },
+    {
+      "id": 534,
+      "labelX": 906,
+      "labelY": 652,
+      "maxRadius": 2.8,
+      "area": 46,
+      "colorId": 23
+    },
+    {
+      "id": 535,
+      "labelX": 655,
+      "labelY": 653,
+      "maxRadius": 3.0,
+      "area": 49,
+      "colorId": 5
+    },
+    {
+      "id": 536,
+      "labelX": 113,
+      "labelY": 660,
+      "maxRadius": 3.2,
+      "area": 226,
+      "colorId": 2
+    },
+    {
+      "id": 537,
+      "labelX": 664,
+      "labelY": 660,
+      "maxRadius": 2.2,
+      "area": 89,
+      "colorId": 15
+    },
+    {
+      "id": 538,
+      "labelX": 677,
+      "labelY": 656,
+      "maxRadius": 1.4,
+      "area": 33,
+      "colorId": 15
+    },
+    {
+      "id": 539,
+      "labelX": 370,
+      "labelY": 659,
+      "maxRadius": 2.0,
+      "area": 178,
+      "colorId": 30
+    },
+    {
+      "id": 540,
+      "labelX": 668,
+      "labelY": 657,
+      "maxRadius": 1.4,
+      "area": 45,
+      "colorId": 15
+    },
+    {
+      "id": 541,
+      "labelX": 84,
+      "labelY": 656,
+      "maxRadius": 1.0,
+      "area": 41,
+      "colorId": 3
+    },
+    {
+      "id": 542,
+      "labelX": 286,
+      "labelY": 661,
+      "maxRadius": 4.2,
+      "area": 383,
+      "colorId": 29
+    },
+    {
+      "id": 543,
+      "labelX": 657,
+      "labelY": 661,
+      "maxRadius": 2.2,
+      "area": 36,
+      "colorId": 5
+    },
+    {
+      "id": 544,
+      "labelX": 752,
+      "labelY": 659,
+      "maxRadius": 2.0,
+      "area": 40,
+      "colorId": 26
+    },
+    {
+      "id": 545,
+      "labelX": 497,
+      "labelY": 659,
+      "maxRadius": 1.0,
+      "area": 26,
+      "colorId": 7
+    },
+    {
+      "id": 546,
+      "labelX": 295,
+      "labelY": 689,
+      "maxRadius": 5.0,
+      "area": 491,
+      "colorId": 29
+    },
+    {
+      "id": 547,
+      "labelX": 490,
+      "labelY": 662,
+      "maxRadius": 1.0,
+      "area": 75,
+      "colorId": 7
+    },
+    {
+      "id": 548,
+      "labelX": 500,
+      "labelY": 669,
+      "maxRadius": 6.6,
+      "area": 243,
+      "colorId": 32
+    },
+    {
+      "id": 549,
+      "labelX": 756,
+      "labelY": 673,
+      "maxRadius": 3.2,
+      "area": 293,
+      "colorId": 22
+    },
+    {
+      "id": 550,
+      "labelX": 114,
+      "labelY": 699,
+      "maxRadius": 7.8,
+      "area": 582,
+      "colorId": 2
+    },
+    {
+      "id": 551,
+      "labelX": 805,
+      "labelY": 669,
+      "maxRadius": 7.0,
+      "area": 303,
+      "colorId": 26
+    },
+    {
+      "id": 552,
+      "labelX": 890,
+      "labelY": 666,
+      "maxRadius": 2.2,
+      "area": 26,
+      "colorId": 20
+    },
+    {
+      "id": 553,
+      "labelX": 442,
+      "labelY": 668,
+      "maxRadius": 2.2,
+      "area": 150,
+      "colorId": 9
+    },
+    {
+      "id": 554,
+      "labelX": 452,
+      "labelY": 673,
+      "maxRadius": 3.0,
+      "area": 162,
+      "colorId": 9
+    },
+    {
+      "id": 555,
+      "labelX": 912,
+      "labelY": 682,
+      "maxRadius": 13.0,
+      "area": 835,
+      "colorId": 10
+    },
+    {
+      "id": 556,
+      "labelX": 723,
+      "labelY": 675,
+      "maxRadius": 3.0,
+      "area": 211,
+      "colorId": 22
+    },
+    {
+      "id": 557,
+      "labelX": 554,
+      "labelY": 738,
+      "maxRadius": 5.4,
+      "area": 446,
+      "colorId": 3
+    },
+    {
+      "id": 558,
+      "labelX": 583,
+      "labelY": 766,
+      "maxRadius": 7.0,
+      "area": 3683,
+      "colorId": 3
+    },
+    {
+      "id": 559,
+      "labelX": 329,
+      "labelY": 672,
+      "maxRadius": 2.0,
+      "area": 131,
+      "colorId": 30
+    },
+    {
+      "id": 560,
+      "labelX": 346,
+      "labelY": 674,
+      "maxRadius": 2.8,
+      "area": 116,
+      "colorId": 30
+    },
+    {
+      "id": 561,
+      "labelX": 357,
+      "labelY": 679,
+      "maxRadius": 2.8,
+      "area": 137,
+      "colorId": 30
+    },
+    {
+      "id": 562,
+      "labelX": 371,
+      "labelY": 672,
+      "maxRadius": 2.0,
+      "area": 111,
+      "colorId": 30
+    },
+    {
+      "id": 563,
+      "labelX": 384,
+      "labelY": 672,
+      "maxRadius": 2.0,
+      "area": 130,
+      "colorId": 30
+    },
+    {
+      "id": 564,
+      "labelX": 397,
+      "labelY": 672,
+      "maxRadius": 2.0,
+      "area": 90,
+      "colorId": 30
+    },
+    {
+      "id": 565,
+      "labelX": 664,
+      "labelY": 675,
+      "maxRadius": 2.0,
+      "area": 25,
+      "colorId": 10
+    },
+    {
+      "id": 566,
+      "labelX": 824,
+      "labelY": 674,
+      "maxRadius": 2.0,
+      "area": 31,
+      "colorId": 24
+    },
+    {
+      "id": 567,
+      "labelX": 680,
+      "labelY": 676,
+      "maxRadius": 2.8,
+      "area": 42,
+      "colorId": 5
+    },
+    {
+      "id": 568,
+      "labelX": 218,
+      "labelY": 681,
+      "maxRadius": 8.0,
+      "area": 266,
+      "colorId": 26
+    },
+    {
+      "id": 569,
+      "labelX": 644,
+      "labelY": 683,
+      "maxRadius": 2.0,
+      "area": 79,
+      "colorId": 15
+    },
+    {
+      "id": 570,
+      "labelX": 452,
+      "labelY": 686,
+      "maxRadius": 6.0,
+      "area": 573,
+      "colorId": 30
+    },
+    {
+      "id": 571,
+      "labelX": 461,
+      "labelY": 678,
+      "maxRadius": 2.0,
+      "area": 48,
+      "colorId": 18
+    },
+    {
+      "id": 572,
+      "labelX": 657,
+      "labelY": 677,
+      "maxRadius": 1.4,
+      "area": 66,
+      "colorId": 15
+    },
+    {
+      "id": 573,
+      "labelX": 667,
+      "labelY": 681,
+      "maxRadius": 4.0,
+      "area": 64,
+      "colorId": 32
+    },
+    {
+      "id": 574,
+      "labelX": 844,
+      "labelY": 686,
+      "maxRadius": 5.0,
+      "area": 256,
+      "colorId": 25
+    },
+    {
+      "id": 575,
+      "labelX": 883,
+      "labelY": 684,
+      "maxRadius": 5.8,
+      "area": 195,
+      "colorId": 30
+    },
+    {
+      "id": 576,
+      "labelX": 546,
+      "labelY": 684,
+      "maxRadius": 2.0,
+      "area": 37,
+      "colorId": 3
+    },
+    {
+      "id": 577,
+      "labelX": 672,
+      "labelY": 691,
+      "maxRadius": 2.2,
+      "area": 131,
+      "colorId": 25
+    },
+    {
+      "id": 578,
+      "labelX": 158,
+      "labelY": 685,
+      "maxRadius": 2.0,
+      "area": 27,
+      "colorId": 2
+    },
+    {
+      "id": 579,
+      "labelX": 756,
+      "labelY": 687,
+      "maxRadius": 3.6,
+      "area": 225,
+      "colorId": 25
+    },
+    {
+      "id": 580,
+      "labelX": 716,
+      "labelY": 686,
+      "maxRadius": 3.0,
+      "area": 100,
+      "colorId": 32
+    },
+    {
+      "id": 581,
+      "labelX": 842,
+      "labelY": 703,
+      "maxRadius": 11.0,
+      "area": 706,
+      "colorId": 30
+    },
+    {
+      "id": 582,
+      "labelX": 667,
+      "labelY": 689,
+      "maxRadius": 2.2,
+      "area": 34,
+      "colorId": 10
+    },
+    {
+      "id": 583,
+      "labelX": 916,
+      "labelY": 710,
+      "maxRadius": 11.2,
+      "area": 1450,
+      "colorId": 25
+    },
+    {
+      "id": 584,
+      "labelX": 723,
+      "labelY": 692,
+      "maxRadius": 3.0,
+      "area": 86,
+      "colorId": 18
+    },
+    {
+      "id": 585,
+      "labelX": 655,
+      "labelY": 730,
+      "maxRadius": 5.0,
+      "area": 663,
+      "colorId": 32
+    },
+    {
+      "id": 586,
+      "labelX": 654,
+      "labelY": 696,
+      "maxRadius": 3.0,
+      "area": 36,
+      "colorId": 10
+    },
+    {
+      "id": 587,
+      "labelX": 202,
+      "labelY": 721,
+      "maxRadius": 6.2,
+      "area": 318,
+      "colorId": 25
+    },
+    {
+      "id": 588,
+      "labelX": 199,
+      "labelY": 703,
+      "maxRadius": 2.0,
+      "area": 34,
+      "colorId": 1
+    },
+    {
+      "id": 589,
+      "labelX": 673,
+      "labelY": 701,
+      "maxRadius": 2.2,
+      "area": 84,
+      "colorId": 15
+    },
+    {
+      "id": 590,
+      "labelX": 801,
+      "labelY": 703,
+      "maxRadius": 8.0,
+      "area": 398,
+      "colorId": 26
+    },
+    {
+      "id": 591,
+      "labelX": 168,
+      "labelY": 703,
+      "maxRadius": 3.0,
+      "area": 59,
+      "colorId": 19
+    },
+    {
+      "id": 592,
+      "labelX": 96,
+      "labelY": 710,
+      "maxRadius": 9.0,
+      "area": 336,
+      "colorId": 18
+    },
+    {
+      "id": 593,
+      "labelX": 192,
+      "labelY": 702,
+      "maxRadius": 3.0,
+      "area": 63,
+      "colorId": 25
+    },
+    {
+      "id": 594,
+      "labelX": 926,
+      "labelY": 743,
+      "maxRadius": 11.0,
+      "area": 3184,
+      "colorId": 30
+    },
+    {
+      "id": 595,
+      "labelX": 180,
+      "labelY": 730,
+      "maxRadius": 4.0,
+      "area": 226,
+      "colorId": 1
+    },
+    {
+      "id": 596,
+      "labelX": 967,
+      "labelY": 824,
+      "maxRadius": 9.6,
+      "area": 4303,
+      "colorId": 17
+    },
+    {
+      "id": 597,
+      "labelX": 100,
+      "labelY": 775,
+      "maxRadius": 13.0,
+      "area": 5253,
+      "colorId": 19
+    },
+    {
+      "id": 598,
+      "labelX": 682,
+      "labelY": 709,
+      "maxRadius": 2.0,
+      "area": 52,
+      "colorId": 11
+    },
+    {
+      "id": 599,
+      "labelX": 653,
+      "labelY": 708,
+      "maxRadius": 3.0,
+      "area": 54,
+      "colorId": 10
+    },
+    {
+      "id": 600,
+      "labelX": 65,
+      "labelY": 719,
+      "maxRadius": 10.8,
+      "area": 478,
+      "colorId": 9
+    },
+    {
+      "id": 601,
+      "labelX": 299,
+      "labelY": 710,
+      "maxRadius": 3.6,
+      "area": 56,
+      "colorId": 18
+    },
+    {
+      "id": 602,
+      "labelX": 829,
+      "labelY": 718,
+      "maxRadius": 7.0,
+      "area": 407,
+      "colorId": 10
+    },
+    {
+      "id": 603,
+      "labelX": 463,
+      "labelY": 721,
+      "maxRadius": 5.0,
+      "area": 395,
+      "colorId": 22
+    },
+    {
+      "id": 604,
+      "labelX": 308,
+      "labelY": 714,
+      "maxRadius": 3.2,
+      "area": 50,
+      "colorId": 14
+    },
+    {
+      "id": 605,
+      "labelX": 339,
+      "labelY": 715,
+      "maxRadius": 2.8,
+      "area": 304,
+      "colorId": 22
+    },
+    {
+      "id": 606,
+      "labelX": 297,
+      "labelY": 724,
+      "maxRadius": 4.0,
+      "area": 334,
+      "colorId": 18
+    },
+    {
+      "id": 607,
+      "labelX": 308,
+      "labelY": 725,
+      "maxRadius": 3.0,
+      "area": 94,
+      "colorId": 22
+    },
+    {
+      "id": 608,
+      "labelX": 320,
+      "labelY": 716,
+      "maxRadius": 2.0,
+      "area": 43,
+      "colorId": 18
+    },
+    {
+      "id": 609,
+      "labelX": 358,
+      "labelY": 716,
+      "maxRadius": 2.0,
+      "area": 102,
+      "colorId": 22
+    },
+    {
+      "id": 610,
+      "labelX": 174,
+      "labelY": 727,
+      "maxRadius": 2.0,
+      "area": 77,
+      "colorId": 1
+    },
+    {
+      "id": 611,
+      "labelX": 389,
+      "labelY": 724,
+      "maxRadius": 3.0,
+      "area": 166,
+      "colorId": 22
+    },
+    {
+      "id": 612,
+      "labelX": 434,
+      "labelY": 719,
+      "maxRadius": 4.0,
+      "area": 102,
+      "colorId": 18
+    },
+    {
+      "id": 613,
+      "labelX": 409,
+      "labelY": 725,
+      "maxRadius": 4.4,
+      "area": 627,
+      "colorId": 29
+    },
+    {
+      "id": 614,
+      "labelX": 423,
+      "labelY": 721,
+      "maxRadius": 3.0,
+      "area": 46,
+      "colorId": 18
+    },
+    {
+      "id": 615,
+      "labelX": 651,
+      "labelY": 721,
+      "maxRadius": 2.2,
+      "area": 34,
+      "colorId": 10
+    },
+    {
+      "id": 616,
+      "labelX": 670,
+      "labelY": 724,
+      "maxRadius": 2.8,
+      "area": 50,
+      "colorId": 10
+    },
+    {
+      "id": 617,
+      "labelX": 1,
+      "labelY": 739,
+      "maxRadius": 14.2,
+      "area": 515,
+      "colorId": 9
+    },
+    {
+      "id": 618,
+      "labelX": 665,
+      "labelY": 734,
+      "maxRadius": 2.0,
+      "area": 33,
+      "colorId": 5
+    },
+    {
+      "id": 619,
+      "labelX": 274,
+      "labelY": 728,
+      "maxRadius": 2.2,
+      "area": 148,
+      "colorId": 9
+    },
+    {
+      "id": 620,
+      "labelX": 325,
+      "labelY": 742,
+      "maxRadius": 3.0,
+      "area": 342,
+      "colorId": 29
+    },
+    {
+      "id": 621,
+      "labelX": 761,
+      "labelY": 727,
+      "maxRadius": 2.2,
+      "area": 57,
+      "colorId": 21
+    },
+    {
+      "id": 622,
+      "labelX": 426,
+      "labelY": 733,
+      "maxRadius": 5.0,
+      "area": 217,
+      "colorId": 22
+    },
+    {
+      "id": 623,
+      "labelX": 1023,
+      "labelY": 750,
+      "maxRadius": 11.0,
+      "area": 889,
+      "colorId": 25
+    },
+    {
+      "id": 624,
+      "labelX": 462,
+      "labelY": 730,
+      "maxRadius": 2.2,
+      "area": 60,
+      "colorId": 18
+    },
+    {
+      "id": 625,
+      "labelX": 405,
+      "labelY": 736,
+      "maxRadius": 2.8,
+      "area": 152,
+      "colorId": 22
+    },
+    {
+      "id": 626,
+      "labelX": 0,
+      "labelY": 767,
+      "maxRadius": 10.8,
+      "area": 1178,
+      "colorId": 19
+    },
+    {
+      "id": 627,
+      "labelX": 442,
+      "labelY": 738,
+      "maxRadius": 5.0,
+      "area": 331,
+      "colorId": 22
+    },
+    {
+      "id": 628,
+      "labelX": 675,
+      "labelY": 733,
+      "maxRadius": 2.2,
+      "area": 31,
+      "colorId": 17
+    },
+    {
+      "id": 629,
+      "labelX": 745,
+      "labelY": 732,
+      "maxRadius": 2.8,
+      "area": 136,
+      "colorId": 21
+    },
+    {
+      "id": 630,
+      "labelX": 878,
+      "labelY": 743,
+      "maxRadius": 8.6,
+      "area": 897,
+      "colorId": 2
+    },
+    {
+      "id": 631,
+      "labelX": 46,
+      "labelY": 734,
+      "maxRadius": 3.6,
+      "area": 198,
+      "colorId": 25
+    },
+    {
+      "id": 632,
+      "labelX": 340,
+      "labelY": 734,
+      "maxRadius": 2.2,
+      "area": 132,
+      "colorId": 22
+    },
+    {
+      "id": 633,
+      "labelX": 693,
+      "labelY": 735,
+      "maxRadius": 2.8,
+      "area": 117,
+      "colorId": 21
+    },
+    {
+      "id": 634,
+      "labelX": 716,
+      "labelY": 742,
+      "maxRadius": 4.0,
+      "area": 206,
+      "colorId": 21
+    },
+    {
+      "id": 635,
+      "labelX": 811,
+      "labelY": 741,
+      "maxRadius": 10.0,
+      "area": 390,
+      "colorId": 26
+    },
+    {
+      "id": 636,
+      "labelX": 281,
+      "labelY": 739,
+      "maxRadius": 5.0,
+      "area": 335,
+      "colorId": 6
+    },
+    {
+      "id": 637,
+      "labelX": 47,
+      "labelY": 742,
+      "maxRadius": 3.6,
+      "area": 189,
+      "colorId": 19
+    },
+    {
+      "id": 638,
+      "labelX": 972,
+      "labelY": 737,
+      "maxRadius": 2.2,
+      "area": 34,
+      "colorId": 29
+    },
+    {
+      "id": 639,
+      "labelX": 658,
+      "labelY": 737,
+      "maxRadius": 2.0,
+      "area": 144,
+      "colorId": 15
+    },
+    {
+      "id": 640,
+      "labelX": 544,
+      "labelY": 741,
+      "maxRadius": 2.8,
+      "area": 28,
+      "colorId": 26
+    },
+    {
+      "id": 641,
+      "labelX": 570,
+      "labelY": 741,
+      "maxRadius": 4.0,
+      "area": 256,
+      "colorId": 22
+    },
+    {
+      "id": 642,
+      "labelX": 609,
+      "labelY": 740,
+      "maxRadius": 3.0,
+      "area": 75,
+      "colorId": 3
+    },
+    {
+      "id": 643,
+      "labelX": 831,
+      "labelY": 743,
+      "maxRadius": 3.2,
+      "area": 68,
+      "colorId": 28
+    },
+    {
+      "id": 644,
+      "labelX": 423,
+      "labelY": 742,
+      "maxRadius": 3.0,
+      "area": 79,
+      "colorId": 9
+    },
+    {
+      "id": 645,
+      "labelX": 863,
+      "labelY": 749,
+      "maxRadius": 4.4,
+      "area": 132,
+      "colorId": 28
+    },
+    {
+      "id": 646,
+      "labelX": 27,
+      "labelY": 746,
+      "maxRadius": 4.0,
+      "area": 97,
+      "colorId": 7
+    },
+    {
+      "id": 647,
+      "labelX": 733,
+      "labelY": 749,
+      "maxRadius": 2.8,
+      "area": 65,
+      "colorId": 21
+    },
+    {
+      "id": 648,
+      "labelX": 760,
+      "labelY": 744,
+      "maxRadius": 2.0,
+      "area": 67,
+      "colorId": 21
+    },
+    {
+      "id": 649,
+      "labelX": 892,
+      "labelY": 749,
+      "maxRadius": 4.2,
+      "area": 90,
+      "colorId": 28
+    },
+    {
+      "id": 650,
+      "labelX": 0,
+      "labelY": 795,
+      "maxRadius": 15.8,
+      "area": 6111,
+      "colorId": 30
+    },
+    {
+      "id": 651,
+      "labelX": 145,
+      "labelY": 781,
+      "maxRadius": 7.8,
+      "area": 2083,
+      "colorId": 2
+    },
+    {
+      "id": 652,
+      "labelX": 543,
+      "labelY": 748,
+      "maxRadius": 2.0,
+      "area": 46,
+      "colorId": 26
+    },
+    {
+      "id": 653,
+      "labelX": 594,
+      "labelY": 748,
+      "maxRadius": 2.0,
+      "area": 38,
+      "colorId": 3
+    },
+    {
+      "id": 654,
+      "labelX": 959,
+      "labelY": 749,
+      "maxRadius": 3.0,
+      "area": 31,
+      "colorId": 29
+    },
+    {
+      "id": 655,
+      "labelX": 1023,
+      "labelY": 810,
+      "maxRadius": 17.2,
+      "area": 2646,
+      "colorId": 30
+    },
+    {
+      "id": 656,
+      "labelX": 663,
+      "labelY": 761,
+      "maxRadius": 3.0,
+      "area": 68,
+      "colorId": 32
+    },
+    {
+      "id": 657,
+      "labelX": 257,
+      "labelY": 755,
+      "maxRadius": 3.0,
+      "area": 1380,
+      "colorId": 18
+    },
+    {
+      "id": 658,
+      "labelX": 183,
+      "labelY": 762,
+      "maxRadius": 3.2,
+      "area": 104,
+      "colorId": 28
+    },
+    {
+      "id": 659,
+      "labelX": 604,
+      "labelY": 788,
+      "maxRadius": 7.0,
+      "area": 844,
+      "colorId": 3
+    },
+    {
+      "id": 660,
+      "labelX": 878,
+      "labelY": 762,
+      "maxRadius": 3.6,
+      "area": 94,
+      "colorId": 28
+    },
+    {
+      "id": 661,
+      "labelX": 562,
+      "labelY": 763,
+      "maxRadius": 7.0,
+      "area": 862,
+      "colorId": 3
+    },
+    {
+      "id": 662,
+      "labelX": 844,
+      "labelY": 763,
+      "maxRadius": 4.4,
+      "area": 125,
+      "colorId": 28
+    },
+    {
+      "id": 663,
+      "labelX": 975,
+      "labelY": 760,
+      "maxRadius": 3.0,
+      "area": 37,
+      "colorId": 32
+    },
+    {
+      "id": 664,
+      "labelX": 704,
+      "labelY": 771,
+      "maxRadius": 7.0,
+      "area": 989,
+      "colorId": 4
+    },
+    {
+      "id": 665,
+      "labelX": 671,
+      "labelY": 765,
+      "maxRadius": 2.2,
+      "area": 36,
+      "colorId": 19
+    },
+    {
+      "id": 666,
+      "labelX": 692,
+      "labelY": 764,
+      "maxRadius": 2.0,
+      "area": 36,
+      "colorId": 6
+    },
+    {
+      "id": 667,
+      "labelX": 251,
+      "labelY": 763,
+      "maxRadius": 3.0,
+      "area": 1409,
+      "colorId": 6
+    },
+    {
+      "id": 668,
+      "labelX": 500,
+      "labelY": 770,
+      "maxRadius": 5.6,
+      "area": 1272,
+      "colorId": 17
+    },
+    {
+      "id": 669,
+      "labelX": 157,
+      "labelY": 769,
+      "maxRadius": 3.2,
+      "area": 116,
+      "colorId": 28
+    },
+    {
+      "id": 670,
+      "labelX": 653,
+      "labelY": 764,
+      "maxRadius": 2.8,
+      "area": 41,
+      "colorId": 5
+    },
+    {
+      "id": 671,
+      "labelX": 897,
+      "labelY": 767,
+      "maxRadius": 3.2,
+      "area": 53,
+      "colorId": 28
+    },
+    {
+      "id": 672,
+      "labelX": 914,
+      "labelY": 769,
+      "maxRadius": 3.2,
+      "area": 68,
+      "colorId": 28
+    },
+    {
+      "id": 673,
+      "labelX": 200,
+      "labelY": 770,
+      "maxRadius": 2.8,
+      "area": 35,
+      "colorId": 28
+    },
+    {
+      "id": 674,
+      "labelX": 828,
+      "labelY": 775,
+      "maxRadius": 4.0,
+      "area": 98,
+      "colorId": 28
+    },
+    {
+      "id": 675,
+      "labelX": 665,
+      "labelY": 788,
+      "maxRadius": 6.0,
+      "area": 1191,
+      "colorId": 5
+    },
+    {
+      "id": 676,
+      "labelX": 660,
+      "labelY": 776,
+      "maxRadius": 2.2,
+      "area": 25,
+      "colorId": 18
+    },
+    {
+      "id": 677,
+      "labelX": 861,
+      "labelY": 774,
+      "maxRadius": 1.0,
+      "area": 28,
+      "colorId": 7
+    },
+    {
+      "id": 678,
+      "labelX": 171,
+      "labelY": 779,
+      "maxRadius": 3.2,
+      "area": 54,
+      "colorId": 28
+    },
+    {
+      "id": 679,
+      "labelX": 803,
+      "labelY": 783,
+      "maxRadius": 8.6,
+      "area": 433,
+      "colorId": 26
+    },
+    {
+      "id": 680,
+      "labelX": 122,
+      "labelY": 781,
+      "maxRadius": 2.8,
+      "area": 44,
+      "colorId": 28
+    },
+    {
+      "id": 681,
+      "labelX": 852,
+      "labelY": 781,
+      "maxRadius": 2.2,
+      "area": 214,
+      "colorId": 13
+    },
+    {
+      "id": 682,
+      "labelX": 673,
+      "labelY": 780,
+      "maxRadius": 2.0,
+      "area": 32,
+      "colorId": 11
+    },
+    {
+      "id": 683,
+      "labelX": 858,
+      "labelY": 779,
+      "maxRadius": 1.0,
+      "area": 62,
+      "colorId": 18
+    },
+    {
+      "id": 684,
+      "labelX": 922,
+      "labelY": 783,
+      "maxRadius": 1.4,
+      "area": 25,
+      "colorId": 2
+    },
+    {
+      "id": 685,
+      "labelX": 851,
+      "labelY": 788,
+      "maxRadius": 3.2,
+      "area": 44,
+      "colorId": 18
+    },
+    {
+      "id": 686,
+      "labelX": 913,
+      "labelY": 788,
+      "maxRadius": 2.8,
+      "area": 28,
+      "colorId": 21
+    },
+    {
+      "id": 687,
+      "labelX": 271,
+      "labelY": 787,
+      "maxRadius": 3.0,
+      "area": 221,
+      "colorId": 6
+    },
+    {
+      "id": 688,
+      "labelX": 424,
+      "labelY": 787,
+      "maxRadius": 3.0,
+      "area": 214,
+      "colorId": 6
+    },
+    {
+      "id": 689,
+      "labelX": 156,
+      "labelY": 793,
+      "maxRadius": 3.6,
+      "area": 1693,
+      "colorId": 18
+    },
+    {
+      "id": 690,
+      "labelX": 378,
+      "labelY": 859,
+      "maxRadius": 8.0,
+      "area": 3909,
+      "colorId": 15
+    },
+    {
+      "id": 691,
+      "labelX": 489,
+      "labelY": 788,
+      "maxRadius": 2.0,
+      "area": 26,
+      "colorId": 23
+    },
+    {
+      "id": 692,
+      "labelX": 134,
+      "labelY": 793,
+      "maxRadius": 3.6,
+      "area": 97,
+      "colorId": 28
+    },
+    {
+      "id": 693,
+      "labelX": 860,
+      "labelY": 792,
+      "maxRadius": 5.0,
+      "area": 125,
+      "colorId": 11
+    },
+    {
+      "id": 694,
+      "labelX": 657,
+      "labelY": 790,
+      "maxRadius": 2.0,
+      "area": 29,
+      "colorId": 11
+    },
+    {
+      "id": 695,
+      "labelX": 870,
+      "labelY": 797,
+      "maxRadius": 5.2,
+      "area": 150,
+      "colorId": 14
+    },
+    {
+      "id": 696,
+      "labelX": 881,
+      "labelY": 793,
+      "maxRadius": 5.0,
+      "area": 140,
+      "colorId": 11
+    },
+    {
+      "id": 697,
+      "labelX": 890,
+      "labelY": 790,
+      "maxRadius": 3.0,
+      "area": 100,
+      "colorId": 1
+    },
+    {
+      "id": 698,
+      "labelX": 354,
+      "labelY": 795,
+      "maxRadius": 5.0,
+      "area": 802,
+      "colorId": 9
+    },
+    {
+      "id": 699,
+      "labelX": 416,
+      "labelY": 794,
+      "maxRadius": 3.0,
+      "area": 49,
+      "colorId": 9
+    },
+    {
+      "id": 700,
+      "labelX": 679,
+      "labelY": 794,
+      "maxRadius": 2.2,
+      "area": 25,
+      "colorId": 15
+    },
+    {
+      "id": 701,
+      "labelX": 78,
+      "labelY": 795,
+      "maxRadius": 2.8,
+      "area": 29,
+      "colorId": 3
+    },
+    {
+      "id": 702,
+      "labelX": 151,
+      "labelY": 793,
+      "maxRadius": 1.0,
+      "area": 148,
+      "colorId": 7
+    },
+    {
+      "id": 703,
+      "labelX": 685,
+      "labelY": 794,
+      "maxRadius": 1.4,
+      "area": 26,
+      "colorId": 9
+    },
+    {
+      "id": 704,
+      "labelX": 512,
+      "labelY": 816,
+      "maxRadius": 8.4,
+      "area": 426,
+      "colorId": 26
+    },
+    {
+      "id": 705,
+      "labelX": 743,
+      "labelY": 804,
+      "maxRadius": 9.6,
+      "area": 2856,
+      "colorId": 19
+    },
+    {
+      "id": 706,
+      "labelX": 823,
+      "labelY": 796,
+      "maxRadius": 2.0,
+      "area": 74,
+      "colorId": 18
+    },
+    {
+      "id": 707,
+      "labelX": 243,
+      "labelY": 827,
+      "maxRadius": 9.2,
+      "area": 1488,
+      "colorId": 19
+    },
+    {
+      "id": 708,
+      "labelX": 820,
+      "labelY": 801,
+      "maxRadius": 2.8,
+      "area": 215,
+      "colorId": 13
+    },
+    {
+      "id": 709,
+      "labelX": 148,
+      "labelY": 797,
+      "maxRadius": 1.0,
+      "area": 67,
+      "colorId": 7
+    },
+    {
+      "id": 710,
+      "labelX": 985,
+      "labelY": 802,
+      "maxRadius": 3.6,
+      "area": 54,
+      "colorId": 32
+    },
+    {
+      "id": 711,
+      "labelX": 688,
+      "labelY": 823,
+      "maxRadius": 8.0,
+      "area": 456,
+      "colorId": 19
+    },
+    {
+      "id": 712,
+      "labelX": 77,
+      "labelY": 801,
+      "maxRadius": 2.0,
+      "area": 26,
+      "colorId": 3
+    },
+    {
+      "id": 713,
+      "labelX": 901,
+      "labelY": 804,
+      "maxRadius": 3.0,
+      "area": 266,
+      "colorId": 13
+    },
+    {
+      "id": 714,
+      "labelX": 944,
+      "labelY": 804,
+      "maxRadius": 2.2,
+      "area": 42,
+      "colorId": 29
+    },
+    {
+      "id": 715,
+      "labelX": 660,
+      "labelY": 804,
+      "maxRadius": 2.0,
+      "area": 33,
+      "colorId": 9
+    },
+    {
+      "id": 716,
+      "labelX": 802,
+      "labelY": 808,
+      "maxRadius": 3.2,
+      "area": 89,
+      "colorId": 11
+    },
+    {
+      "id": 717,
+      "labelX": 279,
+      "labelY": 804,
+      "maxRadius": 3.0,
+      "area": 234,
+      "colorId": 19
+    },
+    {
+      "id": 718,
+      "labelX": 294,
+      "labelY": 805,
+      "maxRadius": 3.0,
+      "area": 232,
+      "colorId": 19
+    },
+    {
+      "id": 719,
+      "labelX": 302,
+      "labelY": 806,
+      "maxRadius": 4.0,
+      "area": 270,
+      "colorId": 9
+    },
+    {
+      "id": 720,
+      "labelX": 309,
+      "labelY": 838,
+      "maxRadius": 3.0,
+      "area": 160,
+      "colorId": 9
+    },
+    {
+      "id": 721,
+      "labelX": 317,
+      "labelY": 805,
+      "maxRadius": 4.0,
+      "area": 273,
+      "colorId": 19
+    },
+    {
+      "id": 722,
+      "labelX": 325,
+      "labelY": 805,
+      "maxRadius": 3.0,
+      "area": 180,
+      "colorId": 9
+    },
+    {
+      "id": 723,
+      "labelX": 332,
+      "labelY": 805,
+      "maxRadius": 4.0,
+      "area": 311,
+      "colorId": 19
+    },
+    {
+      "id": 724,
+      "labelX": 348,
+      "labelY": 837,
+      "maxRadius": 3.2,
+      "area": 237,
+      "colorId": 19
+    },
+    {
+      "id": 725,
+      "labelX": 355,
+      "labelY": 805,
+      "maxRadius": 3.0,
+      "area": 183,
+      "colorId": 9
+    },
+    {
+      "id": 726,
+      "labelX": 362,
+      "labelY": 805,
+      "maxRadius": 4.0,
+      "area": 202,
+      "colorId": 19
+    },
+    {
+      "id": 727,
+      "labelX": 854,
+      "labelY": 810,
+      "maxRadius": 3.0,
+      "area": 70,
+      "colorId": 1
+    },
+    {
+      "id": 728,
+      "labelX": 287,
+      "labelY": 805,
+      "maxRadius": 3.0,
+      "area": 191,
+      "colorId": 9
+    },
+    {
+      "id": 729,
+      "labelX": 340,
+      "labelY": 804,
+      "maxRadius": 2.0,
+      "area": 152,
+      "colorId": 9
+    },
+    {
+      "id": 730,
+      "labelX": 416,
+      "labelY": 805,
+      "maxRadius": 3.0,
+      "area": 190,
+      "colorId": 7
+    },
+    {
+      "id": 731,
+      "labelX": 811,
+      "labelY": 809,
+      "maxRadius": 5.0,
+      "area": 141,
+      "colorId": 14
+    },
+    {
+      "id": 732,
+      "labelX": 75,
+      "labelY": 806,
+      "maxRadius": 2.0,
+      "area": 29,
+      "colorId": 3
+    },
+    {
+      "id": 733,
+      "labelX": 120,
+      "labelY": 809,
+      "maxRadius": 2.8,
+      "area": 46,
+      "colorId": 28
+    },
+    {
+      "id": 734,
+      "labelX": 822,
+      "labelY": 814,
+      "maxRadius": 5.4,
+      "area": 151,
+      "colorId": 14
+    },
+    {
+      "id": 735,
+      "labelX": 833,
+      "labelY": 810,
+      "maxRadius": 5.0,
+      "area": 135,
+      "colorId": 11
+    },
+    {
+      "id": 736,
+      "labelX": 846,
+      "labelY": 813,
+      "maxRadius": 3.6,
+      "area": 90,
+      "colorId": 1
+    },
+    {
+      "id": 737,
+      "labelX": 904,
+      "labelY": 810,
+      "maxRadius": 2.2,
+      "area": 42,
+      "colorId": 1
+    },
+    {
+      "id": 738,
+      "labelX": 471,
+      "labelY": 820,
+      "maxRadius": 7.4,
+      "area": 958,
+      "colorId": 19
+    },
+    {
+      "id": 739,
+      "labelX": 494,
+      "labelY": 809,
+      "maxRadius": 1.0,
+      "area": 33,
+      "colorId": 1
+    },
+    {
+      "id": 740,
+      "labelX": 647,
+      "labelY": 819,
+      "maxRadius": 2.0,
+      "area": 40,
+      "colorId": 19
+    },
+    {
+      "id": 741,
+      "labelX": 77,
+      "labelY": 847,
+      "maxRadius": 7.0,
+      "area": 563,
+      "colorId": 3
+    },
+    {
+      "id": 742,
+      "labelX": 177,
+      "labelY": 833,
+      "maxRadius": 7.6,
+      "area": 683,
+      "colorId": 29
+    },
+    {
+      "id": 743,
+      "labelX": 895,
+      "labelY": 828,
+      "maxRadius": 4.2,
+      "area": 217,
+      "colorId": 1
+    },
+    {
+      "id": 744,
+      "labelX": 410,
+      "labelY": 1023,
+      "maxRadius": 24.6,
+      "area": 68520,
+      "colorId": 27
+    },
+    {
+      "id": 745,
+      "labelX": 869,
+      "labelY": 817,
+      "maxRadius": 5.4,
+      "area": 245,
+      "colorId": 11
+    },
+    {
+      "id": 746,
+      "labelX": 441,
+      "labelY": 820,
+      "maxRadius": 9.0,
+      "area": 396,
+      "colorId": 26
+    },
+    {
+      "id": 747,
+      "labelX": 883,
+      "labelY": 816,
+      "maxRadius": 5.0,
+      "area": 250,
+      "colorId": 14
+    },
+    {
+      "id": 748,
+      "labelX": 133,
+      "labelY": 817,
+      "maxRadius": 3.0,
+      "area": 31,
+      "colorId": 10
+    },
+    {
+      "id": 749,
+      "labelX": 725,
+      "labelY": 816,
+      "maxRadius": 3.0,
+      "area": 127,
+      "colorId": 19
+    },
+    {
+      "id": 750,
+      "labelX": 708,
+      "labelY": 822,
+      "maxRadius": 8.0,
+      "area": 321,
+      "colorId": 26
+    },
+    {
+      "id": 751,
+      "labelX": 651,
+      "labelY": 818,
+      "maxRadius": 1.4,
+      "area": 28,
+      "colorId": 5
+    },
+    {
+      "id": 752,
+      "labelX": 658,
+      "labelY": 818,
+      "maxRadius": 2.0,
+      "area": 36,
+      "colorId": 5
+    },
+    {
+      "id": 753,
+      "labelX": 801,
+      "labelY": 820,
+      "maxRadius": 3.0,
+      "area": 344,
+      "colorId": 13
+    },
+    {
+      "id": 754,
+      "labelX": 737,
+      "labelY": 823,
+      "maxRadius": 2.8,
+      "area": 97,
+      "colorId": 22
+    },
+    {
+      "id": 755,
+      "labelX": 879,
+      "labelY": 824,
+      "maxRadius": 2.2,
+      "area": 30,
+      "colorId": 22
+    },
+    {
+      "id": 756,
+      "labelX": 663,
+      "labelY": 822,
+      "maxRadius": 2.0,
+      "area": 38,
+      "colorId": 19
+    },
+    {
+      "id": 757,
+      "labelX": 434,
+      "labelY": 831,
+      "maxRadius": 2.8,
+      "area": 86,
+      "colorId": 26
+    },
+    {
+      "id": 758,
+      "labelX": 257,
+      "labelY": 833,
+      "maxRadius": 2.8,
+      "area": 95,
+      "colorId": 18
+    },
+    {
+      "id": 759,
+      "labelX": 738,
+      "labelY": 834,
+      "maxRadius": 2.0,
+      "area": 42,
+      "colorId": 1
+    },
+    {
+      "id": 760,
+      "labelX": 799,
+      "labelY": 828,
+      "maxRadius": 4.0,
+      "area": 174,
+      "colorId": 11
+    },
+    {
+      "id": 761,
+      "labelX": 857,
+      "labelY": 835,
+      "maxRadius": 3.0,
+      "area": 131,
+      "colorId": 1
+    },
+    {
+      "id": 762,
+      "labelX": 259,
+      "labelY": 838,
+      "maxRadius": 2.2,
+      "area": 70,
+      "colorId": 1
+    },
+    {
+      "id": 763,
+      "labelX": 432,
+      "labelY": 837,
+      "maxRadius": 2.2,
+      "area": 68,
+      "colorId": 9
+    },
+    {
+      "id": 764,
+      "labelX": 486,
+      "labelY": 831,
+      "maxRadius": 6.6,
+      "area": 158,
+      "colorId": 25
+    },
+    {
+      "id": 765,
+      "labelX": 651,
+      "labelY": 834,
+      "maxRadius": 5.6,
+      "area": 241,
+      "colorId": 19
+    },
+    {
+      "id": 766,
+      "labelX": 757,
+      "labelY": 833,
+      "maxRadius": 4.2,
+      "area": 115,
+      "colorId": 18
+    },
+    {
+      "id": 767,
+      "labelX": 500,
+      "labelY": 828,
+      "maxRadius": 3.0,
+      "area": 68,
+      "colorId": 25
+    },
+    {
+      "id": 768,
+      "labelX": 511,
+      "labelY": 832,
+      "maxRadius": 7.0,
+      "area": 378,
+      "colorId": 19
+    },
+    {
+      "id": 769,
+      "labelX": 810,
+      "labelY": 849,
+      "maxRadius": 4.2,
+      "area": 206,
+      "colorId": 14
+    },
+    {
+      "id": 770,
+      "labelX": 848,
+      "labelY": 830,
+      "maxRadius": 3.0,
+      "area": 55,
+      "colorId": 1
+    },
+    {
+      "id": 771,
+      "labelX": 709,
+      "labelY": 833,
+      "maxRadius": 3.0,
+      "area": 93,
+      "colorId": 19
+    },
+    {
+      "id": 772,
+      "labelX": 725,
+      "labelY": 834,
+      "maxRadius": 3.2,
+      "area": 178,
+      "colorId": 26
+    },
+    {
+      "id": 773,
+      "labelX": 820,
+      "labelY": 833,
+      "maxRadius": 5.0,
+      "area": 252,
+      "colorId": 14
+    },
+    {
+      "id": 774,
+      "labelX": 835,
+      "labelY": 833,
+      "maxRadius": 5.0,
+      "area": 226,
+      "colorId": 8
+    },
+    {
+      "id": 775,
+      "labelX": 958,
+      "labelY": 835,
+      "maxRadius": 3.0,
+      "area": 54,
+      "colorId": 32
+    },
+    {
+      "id": 776,
+      "labelX": 988,
+      "labelY": 833,
+      "maxRadius": 2.2,
+      "area": 31,
+      "colorId": 30
+    },
+    {
+      "id": 777,
+      "labelX": 454,
+      "labelY": 838,
+      "maxRadius": 7.0,
+      "area": 233,
+      "colorId": 19
+    },
+    {
+      "id": 778,
+      "labelX": 271,
+      "labelY": 835,
+      "maxRadius": 2.2,
+      "area": 49,
+      "colorId": 1
+    },
+    {
+      "id": 779,
+      "labelX": 663,
+      "labelY": 835,
+      "maxRadius": 2.2,
+      "area": 28,
+      "colorId": 19
+    },
+    {
+      "id": 780,
+      "labelX": 696,
+      "labelY": 839,
+      "maxRadius": 7.0,
+      "area": 292,
+      "colorId": 19
+    },
+    {
+      "id": 781,
+      "labelX": 744,
+      "labelY": 835,
+      "maxRadius": 3.0,
+      "area": 80,
+      "colorId": 29
+    },
+    {
+      "id": 782,
+      "labelX": 424,
+      "labelY": 838,
+      "maxRadius": 2.8,
+      "area": 41,
+      "colorId": 6
+    },
+    {
+      "id": 783,
+      "labelX": 717,
+      "labelY": 839,
+      "maxRadius": 3.6,
+      "area": 105,
+      "colorId": 1
+    },
+    {
+      "id": 784,
+      "labelX": 807,
+      "labelY": 840,
+      "maxRadius": 3.6,
+      "area": 58,
+      "colorId": 22
+    },
+    {
+      "id": 785,
+      "labelX": 850,
+      "labelY": 840,
+      "maxRadius": 3.6,
+      "area": 50,
+      "colorId": 18
+    },
+    {
+      "id": 786,
+      "labelX": 768,
+      "labelY": 843,
+      "maxRadius": 3.6,
+      "area": 113,
+      "colorId": 26
+    },
+    {
+      "id": 787,
+      "labelX": 831,
+      "labelY": 841,
+      "maxRadius": 2.8,
+      "area": 42,
+      "colorId": 22
+    },
+    {
+      "id": 788,
+      "labelX": 891,
+      "labelY": 841,
+      "maxRadius": 3.0,
+      "area": 215,
+      "colorId": 7
+    },
+    {
+      "id": 789,
+      "labelX": 825,
+      "labelY": 841,
+      "maxRadius": 2.2,
+      "area": 31,
+      "colorId": 22
+    },
+    {
+      "id": 790,
+      "labelX": 264,
+      "labelY": 841,
+      "maxRadius": 2.0,
+      "area": 31,
+      "colorId": 19
+    },
+    {
+      "id": 791,
+      "labelX": 440,
+      "labelY": 841,
+      "maxRadius": 3.0,
+      "area": 41,
+      "colorId": 6
+    },
+    {
+      "id": 792,
+      "labelX": 249,
+      "labelY": 841,
+      "maxRadius": 3.0,
+      "area": 36,
+      "colorId": 6
+    },
+    {
+      "id": 793,
+      "labelX": 561,
+      "labelY": 845,
+      "maxRadius": 5.0,
+      "area": 846,
+      "colorId": 30
+    },
+    {
+      "id": 794,
+      "labelX": 509,
+      "labelY": 848,
+      "maxRadius": 3.2,
+      "area": 231,
+      "colorId": 14
+    },
+    {
+      "id": 795,
+      "labelX": 275,
+      "labelY": 844,
+      "maxRadius": 2.0,
+      "area": 308,
+      "colorId": 18
+    },
+    {
+      "id": 796,
+      "labelX": 414,
+      "labelY": 844,
+      "maxRadius": 2.0,
+      "area": 47,
+      "colorId": 22
+    },
+    {
+      "id": 797,
+      "labelX": 714,
+      "labelY": 847,
+      "maxRadius": 3.6,
+      "area": 126,
+      "colorId": 22
+    },
+    {
+      "id": 798,
+      "labelX": 902,
+      "labelY": 845,
+      "maxRadius": 2.0,
+      "area": 35,
+      "colorId": 1
+    },
+    {
+      "id": 799,
+      "labelX": 678,
+      "labelY": 850,
+      "maxRadius": 3.6,
+      "area": 241,
+      "colorId": 14
+    },
+    {
+      "id": 800,
+      "labelX": 750,
+      "labelY": 848,
+      "maxRadius": 2.8,
+      "area": 109,
+      "colorId": 29
+    },
+    {
+      "id": 801,
+      "labelX": 254,
+      "labelY": 848,
+      "maxRadius": 3.0,
+      "area": 337,
+      "colorId": 6
+    },
+    {
+      "id": 802,
+      "labelX": 437,
+      "labelY": 848,
+      "maxRadius": 3.0,
+      "area": 286,
+      "colorId": 6
+    },
+    {
+      "id": 803,
+      "labelX": 737,
+      "labelY": 850,
+      "maxRadius": 3.6,
+      "area": 100,
+      "colorId": 29
+    },
+    {
+      "id": 804,
+      "labelX": 774,
+      "labelY": 853,
+      "maxRadius": 3.2,
+      "area": 77,
+      "colorId": 26
+    },
+    {
+      "id": 805,
+      "labelX": 863,
+      "labelY": 853,
+      "maxRadius": 2.0,
+      "area": 32,
+      "colorId": 1
+    },
+    {
+      "id": 806,
+      "labelX": 694,
+      "labelY": 852,
+      "maxRadius": 4.2,
+      "area": 136,
+      "colorId": 7
+    },
+    {
+      "id": 807,
+      "labelX": 871,
+      "labelY": 851,
+      "maxRadius": 5.0,
+      "area": 122,
+      "colorId": 1
+    },
+    {
+      "id": 808,
+      "labelX": 881,
+      "labelY": 850,
+      "maxRadius": 4.0,
+      "area": 101,
+      "colorId": 1
+    },
+    {
+      "id": 809,
+      "labelX": 197,
+      "labelY": 851,
+      "maxRadius": 2.0,
+      "area": 92,
+      "colorId": 30
+    },
+    {
+      "id": 810,
+      "labelX": 269,
+      "labelY": 849,
+      "maxRadius": 2.0,
+      "area": 311,
+      "colorId": 18
+    },
+    {
+      "id": 811,
+      "labelX": 410,
+      "labelY": 849,
+      "maxRadius": 2.0,
+      "area": 79,
+      "colorId": 22
+    },
+    {
+      "id": 812,
+      "labelX": 206,
+      "labelY": 854,
+      "maxRadius": 2.2,
+      "area": 131,
+      "colorId": 25
+    },
+    {
+      "id": 813,
+      "labelX": 528,
+      "labelY": 853,
+      "maxRadius": 5.0,
+      "area": 1120,
+      "colorId": 19
+    },
+    {
+      "id": 814,
+      "labelX": 448,
+      "labelY": 856,
+      "maxRadius": 7.0,
+      "area": 339,
+      "colorId": 19
+    },
+    {
+      "id": 815,
+      "labelX": 188,
+      "labelY": 852,
+      "maxRadius": 2.0,
+      "area": 79,
+      "colorId": 30
+    },
+    {
+      "id": 816,
+      "labelX": 813,
+      "labelY": 858,
+      "maxRadius": 3.0,
+      "area": 303,
+      "colorId": 13
+    },
+    {
+      "id": 817,
+      "labelX": 173,
+      "labelY": 858,
+      "maxRadius": 2.0,
+      "area": 118,
+      "colorId": 25
+    },
+    {
+      "id": 818,
+      "labelX": 265,
+      "labelY": 855,
+      "maxRadius": 3.0,
+      "area": 394,
+      "colorId": 18
+    },
+    {
+      "id": 819,
+      "labelX": 407,
+      "labelY": 855,
+      "maxRadius": 3.0,
+      "area": 135,
+      "colorId": 22
+    },
+    {
+      "id": 820,
+      "labelX": 492,
+      "labelY": 866,
+      "maxRadius": 12.0,
+      "area": 702,
+      "colorId": 14
+    },
+    {
+      "id": 821,
+      "labelX": 1023,
+      "labelY": 879,
+      "maxRadius": 16.2,
+      "area": 1777,
+      "colorId": 27
+    },
+    {
+      "id": 822,
+      "labelX": 667,
+      "labelY": 867,
+      "maxRadius": 12.0,
+      "area": 720,
+      "colorId": 16
+    },
+    {
+      "id": 823,
+      "labelX": 971,
+      "labelY": 857,
+      "maxRadius": 2.2,
+      "area": 29,
+      "colorId": 30
+    },
+    {
+      "id": 824,
+      "labelX": 984,
+      "labelY": 858,
+      "maxRadius": 3.0,
+      "area": 54,
+      "colorId": 32
+    },
+    {
+      "id": 825,
+      "labelX": 740,
+      "labelY": 862,
+      "maxRadius": 5.0,
+      "area": 128,
+      "colorId": 29
+    },
+    {
+      "id": 826,
+      "labelX": 761,
+      "labelY": 864,
+      "maxRadius": 5.0,
+      "area": 111,
+      "colorId": 29
+    },
+    {
+      "id": 827,
+      "labelX": 720,
+      "labelY": 865,
+      "maxRadius": 4.0,
+      "area": 155,
+      "colorId": 29
+    },
+    {
+      "id": 828,
+      "labelX": 705,
+      "labelY": 868,
+      "maxRadius": 4.2,
+      "area": 116,
+      "colorId": 1
+    },
+    {
+      "id": 829,
+      "labelX": 781,
+      "labelY": 864,
+      "maxRadius": 4.0,
+      "area": 86,
+      "colorId": 29
+    },
+    {
+      "id": 830,
+      "labelX": 802,
+      "labelY": 863,
+      "maxRadius": 3.0,
+      "area": 79,
+      "colorId": 11
+    },
+    {
+      "id": 831,
+      "labelX": 894,
+      "labelY": 861,
+      "maxRadius": 2.0,
+      "area": 134,
+      "colorId": 3
+    },
+    {
+      "id": 832,
+      "labelX": 262,
+      "labelY": 863,
+      "maxRadius": 2.0,
+      "area": 40,
+      "colorId": 1
+    },
+    {
+      "id": 833,
+      "labelX": 298,
+      "labelY": 862,
+      "maxRadius": 3.0,
+      "area": 240,
+      "colorId": 1
+    },
+    {
+      "id": 834,
+      "labelX": 405,
+      "labelY": 862,
+      "maxRadius": 3.0,
+      "area": 127,
+      "colorId": 1
+    },
+    {
+      "id": 835,
+      "labelX": 520,
+      "labelY": 874,
+      "maxRadius": 6.0,
+      "area": 2538,
+      "colorId": 19
+    },
+    {
+      "id": 836,
+      "labelX": 853,
+      "labelY": 867,
+      "maxRadius": 2.2,
+      "area": 51,
+      "colorId": 1
+    },
+    {
+      "id": 837,
+      "labelX": 812,
+      "labelY": 867,
+      "maxRadius": 5.0,
+      "area": 124,
+      "colorId": 11
+    },
+    {
+      "id": 838,
+      "labelX": 77,
+      "labelY": 865,
+      "maxRadius": 3.0,
+      "area": 76,
+      "colorId": 3
+    },
+    {
+      "id": 839,
+      "labelX": 844,
+      "labelY": 869,
+      "maxRadius": 4.2,
+      "area": 97,
+      "colorId": 1
+    },
+    {
+      "id": 840,
+      "labelX": 822,
+      "labelY": 868,
+      "maxRadius": 5.0,
+      "area": 126,
+      "colorId": 14
+    },
+    {
+      "id": 841,
+      "labelX": 699,
+      "labelY": 873,
+      "maxRadius": 2.8,
+      "area": 81,
+      "colorId": 1
+    },
+    {
+      "id": 842,
+      "labelX": 834,
+      "labelY": 868,
+      "maxRadius": 4.4,
+      "area": 109,
+      "colorId": 6
+    },
+    {
+      "id": 843,
+      "labelX": 260,
+      "labelY": 866,
+      "maxRadius": 1.0,
+      "area": 31,
+      "colorId": 1
+    },
+    {
+      "id": 844,
+      "labelX": 957,
+      "labelY": 868,
+      "maxRadius": 2.8,
+      "area": 42,
+      "colorId": 32
+    },
+    {
+      "id": 845,
+      "labelX": 145,
+      "labelY": 876,
+      "maxRadius": 2.0,
+      "area": 89,
+      "colorId": 1
+    },
+    {
+      "id": 846,
+      "labelX": 270,
+      "labelY": 870,
+      "maxRadius": 3.0,
+      "area": 110,
+      "colorId": 6
+    },
+    {
+      "id": 847,
+      "labelX": 391,
+      "labelY": 884,
+      "maxRadius": 3.2,
+      "area": 341,
+      "colorId": 9
+    },
+    {
+      "id": 848,
+      "labelX": 423,
+      "labelY": 869,
+      "maxRadius": 2.0,
+      "area": 61,
+      "colorId": 1
+    },
+    {
+      "id": 849,
+      "labelX": 776,
+      "labelY": 872,
+      "maxRadius": 2.8,
+      "area": 49,
+      "colorId": 1
+    },
+    {
+      "id": 850,
+      "labelX": 735,
+      "labelY": 875,
+      "maxRadius": 3.6,
+      "area": 117,
+      "colorId": 29
+    },
+    {
+      "id": 851,
+      "labelX": 755,
+      "labelY": 878,
+      "maxRadius": 3.2,
+      "area": 153,
+      "colorId": 29
+    },
+    {
+      "id": 852,
+      "labelX": 760,
+      "labelY": 873,
+      "maxRadius": 2.2,
+      "area": 41,
+      "colorId": 1
+    },
+    {
+      "id": 853,
+      "labelX": 787,
+      "labelY": 875,
+      "maxRadius": 5.0,
+      "area": 133,
+      "colorId": 29
+    },
+    {
+      "id": 854,
+      "labelX": 0,
+      "labelY": 918,
+      "maxRadius": 18.2,
+      "area": 6732,
+      "colorId": 2
+    },
+    {
+      "id": 855,
+      "labelX": 712,
+      "labelY": 878,
+      "maxRadius": 4.0,
+      "area": 130,
+      "colorId": 29
+    },
+    {
+      "id": 856,
+      "labelX": 767,
+      "labelY": 879,
+      "maxRadius": 4.0,
+      "area": 111,
+      "colorId": 29
+    },
+    {
+      "id": 857,
+      "labelX": 807,
+      "labelY": 877,
+      "maxRadius": 2.0,
+      "area": 151,
+      "colorId": 7
+    },
+    {
+      "id": 858,
+      "labelX": 627,
+      "labelY": 886,
+      "maxRadius": 4.0,
+      "area": 214,
+      "colorId": 30
+    },
+    {
+      "id": 859,
+      "labelX": 867,
+      "labelY": 890,
+      "maxRadius": 6.0,
+      "area": 414,
+      "colorId": 30
+    },
+    {
+      "id": 860,
+      "labelX": 14,
+      "labelY": 890,
+      "maxRadius": 3.2,
+      "area": 202,
+      "colorId": 28
+    },
+    {
+      "id": 861,
+      "labelX": 55,
+      "labelY": 893,
+      "maxRadius": 3.2,
+      "area": 225,
+      "colorId": 28
+    },
+    {
+      "id": 862,
+      "labelX": 913,
+      "labelY": 942,
+      "maxRadius": 8.2,
+      "area": 2602,
+      "colorId": 5
+    },
+    {
+      "id": 863,
+      "labelX": 977,
+      "labelY": 908,
+      "maxRadius": 5.4,
+      "area": 218,
+      "colorId": 2
+    },
+    {
+      "id": 864,
+      "labelX": 103,
+      "labelY": 915,
+      "maxRadius": 4.0,
+      "area": 262,
+      "colorId": 28
+    },
+    {
+      "id": 865,
+      "labelX": 631,
+      "labelY": 906,
+      "maxRadius": 5.0,
+      "area": 303,
+      "colorId": 25
+    },
+    {
+      "id": 866,
+      "labelX": 857,
+      "labelY": 913,
+      "maxRadius": 3.6,
+      "area": 147,
+      "colorId": 17
+    },
+    {
+      "id": 867,
+      "labelX": 42,
+      "labelY": 923,
+      "maxRadius": 4.2,
+      "area": 304,
+      "colorId": 28
+    },
+    {
+      "id": 868,
+      "labelX": 791,
+      "labelY": 922,
+      "maxRadius": 5.0,
+      "area": 166,
+      "colorId": 5
+    },
+    {
+      "id": 869,
+      "labelX": 692,
+      "labelY": 920,
+      "maxRadius": 11.0,
+      "area": 795,
+      "colorId": 30
+    },
+    {
+      "id": 870,
+      "labelX": 845,
+      "labelY": 917,
+      "maxRadius": 3.0,
+      "area": 84,
+      "colorId": 10
+    },
+    {
+      "id": 871,
+      "labelX": 805,
+      "labelY": 921,
+      "maxRadius": 4.2,
+      "area": 173,
+      "colorId": 17
+    },
+    {
+      "id": 872,
+      "labelX": 128,
+      "labelY": 922,
+      "maxRadius": 3.6,
+      "area": 235,
+      "colorId": 28
+    },
+    {
+      "id": 873,
+      "labelX": 931,
+      "labelY": 922,
+      "maxRadius": 2.8,
+      "area": 46,
+      "colorId": 31
+    },
+    {
+      "id": 874,
+      "labelX": 976,
+      "labelY": 922,
+      "maxRadius": 2.8,
+      "area": 30,
+      "colorId": 15
+    },
+    {
+      "id": 875,
+      "labelX": 76,
+      "labelY": 926,
+      "maxRadius": 4.4,
+      "area": 365,
+      "colorId": 31
+    },
+    {
+      "id": 876,
+      "labelX": 865,
+      "labelY": 926,
+      "maxRadius": 3.2,
+      "area": 84,
+      "colorId": 17
+    },
+    {
+      "id": 877,
+      "labelX": 785,
+      "labelY": 934,
+      "maxRadius": 3.2,
+      "area": 122,
+      "colorId": 5
+    },
+    {
+      "id": 878,
+      "labelX": 845,
+      "labelY": 928,
+      "maxRadius": 2.8,
+      "area": 68,
+      "colorId": 17
+    },
+    {
+      "id": 879,
+      "labelX": 287,
+      "labelY": 1023,
+      "maxRadius": 15.4,
+      "area": 8501,
+      "colorId": 5
+    },
+    {
+      "id": 880,
+      "labelX": 1023,
+      "labelY": 944,
+      "maxRadius": 13.0,
+      "area": 3958,
+      "colorId": 12
+    },
+    {
+      "id": 881,
+      "labelX": 222,
+      "labelY": 940,
+      "maxRadius": 4.4,
+      "area": 344,
+      "colorId": 16
+    },
+    {
+      "id": 882,
+      "labelX": 514,
+      "labelY": 933,
+      "maxRadius": 6.6,
+      "area": 332,
+      "colorId": 25
+    },
+    {
+      "id": 883,
+      "labelX": 389,
+      "labelY": 938,
+      "maxRadius": 8.4,
+      "area": 601,
+      "colorId": 25
+    },
+    {
+      "id": 884,
+      "labelX": 883,
+      "labelY": 931,
+      "maxRadius": 2.0,
+      "area": 115,
+      "colorId": 18
+    },
+    {
+      "id": 885,
+      "labelX": 815,
+      "labelY": 933,
+      "maxRadius": 2.0,
+      "area": 106,
+      "colorId": 18
+    },
+    {
+      "id": 886,
+      "labelX": 274,
+      "labelY": 940,
+      "maxRadius": 4.0,
+      "area": 256,
+      "colorId": 16
+    },
+    {
+      "id": 887,
+      "labelX": 828,
+      "labelY": 1023,
+      "maxRadius": 5.4,
+      "area": 1037,
+      "colorId": 18
+    },
+    {
+      "id": 888,
+      "labelX": 810,
+      "labelY": 941,
+      "maxRadius": 3.6,
+      "area": 94,
+      "colorId": 17
+    },
+    {
+      "id": 889,
+      "labelX": 103,
+      "labelY": 940,
+      "maxRadius": 4.0,
+      "area": 92,
+      "colorId": 12
+    },
+    {
+      "id": 890,
+      "labelX": 812,
+      "labelY": 1023,
+      "maxRadius": 6.0,
+      "area": 898,
+      "colorId": 6
+    },
+    {
+      "id": 891,
+      "labelX": 819,
+      "labelY": 943,
+      "maxRadius": 4.2,
+      "area": 163,
+      "colorId": 17
+    },
+    {
+      "id": 892,
+      "labelX": 23,
+      "labelY": 940,
+      "maxRadius": 3.2,
+      "area": 69,
+      "colorId": 12
+    },
+    {
+      "id": 893,
+      "labelX": 16,
+      "labelY": 947,
+      "maxRadius": 3.6,
+      "area": 63,
+      "colorId": 17
+    },
+    {
+      "id": 894,
+      "labelX": 474,
+      "labelY": 952,
+      "maxRadius": 11.0,
+      "area": 1039,
+      "colorId": 30
+    },
+    {
+      "id": 895,
+      "labelX": 147,
+      "labelY": 945,
+      "maxRadius": 3.0,
+      "area": 54,
+      "colorId": 12
+    },
+    {
+      "id": 896,
+      "labelX": 801,
+      "labelY": 949,
+      "maxRadius": 3.6,
+      "area": 83,
+      "colorId": 17
+    },
+    {
+      "id": 897,
+      "labelX": 857,
+      "labelY": 949,
+      "maxRadius": 2.8,
+      "area": 73,
+      "colorId": 1
+    },
+    {
+      "id": 898,
+      "labelX": 200,
+      "labelY": 951,
+      "maxRadius": 4.2,
+      "area": 287,
+      "colorId": 16
+    },
+    {
+      "id": 899,
+      "labelX": 869,
+      "labelY": 949,
+      "maxRadius": 4.0,
+      "area": 155,
+      "colorId": 17
+    },
+    {
+      "id": 900,
+      "labelX": 248,
+      "labelY": 952,
+      "maxRadius": 4.2,
+      "area": 294,
+      "colorId": 16
+    },
+    {
+      "id": 901,
+      "labelX": 978,
+      "labelY": 950,
+      "maxRadius": 2.8,
+      "area": 132,
+      "colorId": 32
+    },
+    {
+      "id": 902,
+      "labelX": 839,
+      "labelY": 956,
+      "maxRadius": 4.0,
+      "area": 247,
+      "colorId": 17
+    },
+    {
+      "id": 903,
+      "labelX": 132,
+      "labelY": 955,
+      "maxRadius": 4.2,
+      "area": 292,
+      "colorId": 28
+    },
+    {
+      "id": 904,
+      "labelX": 806,
+      "labelY": 960,
+      "maxRadius": 2.0,
+      "area": 115,
+      "colorId": 1
+    },
+    {
+      "id": 905,
+      "labelX": 1005,
+      "labelY": 957,
+      "maxRadius": 2.2,
+      "area": 75,
+      "colorId": 32
+    },
+    {
+      "id": 906,
+      "labelX": 44,
+      "labelY": 957,
+      "maxRadius": 4.4,
+      "area": 393,
+      "colorId": 31
+    },
+    {
+      "id": 907,
+      "labelX": 861,
+      "labelY": 956,
+      "maxRadius": 4.0,
+      "area": 90,
+      "colorId": 17
+    },
+    {
+      "id": 908,
+      "labelX": 87,
+      "labelY": 959,
+      "maxRadius": 3.6,
+      "area": 66,
+      "colorId": 12
+    },
+    {
+      "id": 909,
+      "labelX": 151,
+      "labelY": 958,
+      "maxRadius": 2.8,
+      "area": 50,
+      "colorId": 12
+    },
+    {
+      "id": 910,
+      "labelX": 883,
+      "labelY": 964,
+      "maxRadius": 3.0,
+      "area": 128,
+      "colorId": 1
+    },
+    {
+      "id": 911,
+      "labelX": 304,
+      "labelY": 976,
+      "maxRadius": 4.0,
+      "area": 288,
+      "colorId": 16
+    },
+    {
+      "id": 912,
+      "labelX": 678,
+      "labelY": 977,
+      "maxRadius": 14.2,
+      "area": 1257,
+      "colorId": 25
+    },
+    {
+      "id": 913,
+      "labelX": 17,
+      "labelY": 968,
+      "maxRadius": 3.6,
+      "area": 67,
+      "colorId": 12
+    },
+    {
+      "id": 914,
+      "labelX": 807,
+      "labelY": 966,
+      "maxRadius": 1.4,
+      "area": 40,
+      "colorId": 1
+    },
+    {
+      "id": 915,
+      "labelX": 823,
+      "labelY": 968,
+      "maxRadius": 2.8,
+      "area": 100,
+      "colorId": 17
+    },
+    {
+      "id": 916,
+      "labelX": 900,
+      "labelY": 968,
+      "maxRadius": 2.8,
+      "area": 116,
+      "colorId": 17
+    },
+    {
+      "id": 917,
+      "labelX": 958,
+      "labelY": 974,
+      "maxRadius": 3.0,
+      "area": 85,
+      "colorId": 32
+    },
+    {
+      "id": 918,
+      "labelX": 454,
+      "labelY": 981,
+      "maxRadius": 13.0,
+      "area": 1212,
+      "colorId": 25
+    },
+    {
+      "id": 919,
+      "labelX": 813,
+      "labelY": 969,
+      "maxRadius": 2.0,
+      "area": 64,
+      "colorId": 1
+    },
+    {
+      "id": 920,
+      "labelX": 223,
+      "labelY": 975,
+      "maxRadius": 3.6,
+      "area": 214,
+      "colorId": 16
+    },
+    {
+      "id": 921,
+      "labelX": 184,
+      "labelY": 974,
+      "maxRadius": 4.4,
+      "area": 444,
+      "colorId": 16
+    },
+    {
+      "id": 922,
+      "labelX": 264,
+      "labelY": 980,
+      "maxRadius": 5.0,
+      "area": 369,
+      "colorId": 16
+    },
+    {
+      "id": 923,
+      "labelX": 856,
+      "labelY": 977,
+      "maxRadius": 3.2,
+      "area": 177,
+      "colorId": 17
+    },
+    {
+      "id": 924,
+      "labelX": 902,
+      "labelY": 975,
+      "maxRadius": 4.0,
+      "area": 135,
+      "colorId": 17
+    },
+    {
+      "id": 925,
+      "labelX": 923,
+      "labelY": 977,
+      "maxRadius": 3.2,
+      "area": 51,
+      "colorId": 10
+    },
+    {
+      "id": 926,
+      "labelX": 1007,
+      "labelY": 979,
+      "maxRadius": 3.2,
+      "area": 131,
+      "colorId": 32
+    },
+    {
+      "id": 927,
+      "labelX": 67,
+      "labelY": 978,
+      "maxRadius": 3.6,
+      "area": 150,
+      "colorId": 12
+    },
+    {
+      "id": 928,
+      "labelX": 106,
+      "labelY": 979,
+      "maxRadius": 4.4,
+      "area": 336,
+      "colorId": 28
+    },
+    {
+      "id": 929,
+      "labelX": 819,
+      "labelY": 980,
+      "maxRadius": 3.2,
+      "area": 88,
+      "colorId": 17
+    },
+    {
+      "id": 930,
+      "labelX": 868,
+      "labelY": 986,
+      "maxRadius": 4.2,
+      "area": 295,
+      "colorId": 17
+    },
+    {
+      "id": 931,
+      "labelX": 60,
+      "labelY": 986,
+      "maxRadius": 3.6,
+      "area": 81,
+      "colorId": 12
+    },
+    {
+      "id": 932,
+      "labelX": 884,
+      "labelY": 985,
+      "maxRadius": 3.0,
+      "area": 124,
+      "colorId": 5
+    },
+    {
+      "id": 933,
+      "labelX": 589,
+      "labelY": 992,
+      "maxRadius": 11.0,
+      "area": 1554,
+      "colorId": 25
+    },
+    {
+      "id": 934,
+      "labelX": 907,
+      "labelY": 987,
+      "maxRadius": 2.0,
+      "area": 79,
+      "colorId": 1
+    },
+    {
+      "id": 935,
+      "labelX": 138,
+      "labelY": 991,
+      "maxRadius": 4.0,
+      "area": 82,
+      "colorId": 12
+    },
+    {
+      "id": 936,
+      "labelX": 517,
+      "labelY": 997,
+      "maxRadius": 11.0,
+      "area": 1377,
+      "colorId": 25
+    },
+    {
+      "id": 937,
+      "labelX": 827,
+      "labelY": 995,
+      "maxRadius": 4.0,
+      "area": 149,
+      "colorId": 1
+    },
+    {
+      "id": 938,
+      "labelX": 34,
+      "labelY": 1003,
+      "maxRadius": 5.0,
+      "area": 384,
+      "colorId": 15
+    },
+    {
+      "id": 939,
+      "labelX": 322,
+      "labelY": 993,
+      "maxRadius": 2.8,
+      "area": 31,
+      "colorId": 5
+    },
+    {
+      "id": 940,
+      "labelX": 975,
+      "labelY": 996,
+      "maxRadius": 3.2,
+      "area": 94,
+      "colorId": 32
+    },
+    {
+      "id": 941,
+      "labelX": 299,
+      "labelY": 994,
+      "maxRadius": 4.2,
+      "area": 323,
+      "colorId": 16
+    },
+    {
+      "id": 942,
+      "labelX": 907,
+      "labelY": 996,
+      "maxRadius": 4.2,
+      "area": 237,
+      "colorId": 1
+    },
+    {
+      "id": 943,
+      "labelX": 204,
+      "labelY": 1000,
+      "maxRadius": 4.0,
+      "area": 250,
+      "colorId": 16
+    },
+    {
+      "id": 944,
+      "labelX": 692,
+      "labelY": 1023,
+      "maxRadius": 28.0,
+      "area": 1884,
+      "colorId": 30
+    },
+    {
+      "id": 945,
+      "labelX": 86,
+      "labelY": 999,
+      "maxRadius": 2.8,
+      "area": 51,
+      "colorId": 12
+    },
+    {
+      "id": 946,
+      "labelX": 851,
+      "labelY": 1000,
+      "maxRadius": 2.8,
+      "area": 60,
+      "colorId": 1
+    },
+    {
+      "id": 947,
+      "labelX": 888,
+      "labelY": 1009,
+      "maxRadius": 4.0,
+      "area": 257,
+      "colorId": 17
+    },
+    {
+      "id": 948,
+      "labelX": 1004,
+      "labelY": 1005,
+      "maxRadius": 3.0,
+      "area": 64,
+      "colorId": 32
+    },
+    {
+      "id": 949,
+      "labelX": 952,
+      "labelY": 1008,
+      "maxRadius": 3.0,
+      "area": 128,
+      "colorId": 32
+    },
+    {
+      "id": 950,
+      "labelX": 90,
+      "labelY": 1004,
+      "maxRadius": 2.0,
+      "area": 32,
+      "colorId": 12
+    },
+    {
+      "id": 951,
+      "labelX": 245,
+      "labelY": 1006,
+      "maxRadius": 3.6,
+      "area": 197,
+      "colorId": 16
+    },
+    {
+      "id": 952,
+      "labelX": 61,
+      "labelY": 1009,
+      "maxRadius": 3.2,
+      "area": 55,
+      "colorId": 12
+    },
+    {
+      "id": 953,
+      "labelX": 331,
+      "labelY": 1012,
+      "maxRadius": 3.0,
+      "area": 153,
+      "colorId": 16
+    },
+    {
+      "id": 954,
+      "labelX": 124,
+      "labelY": 1011,
+      "maxRadius": 3.2,
+      "area": 59,
+      "colorId": 12
+    },
+    {
+      "id": 955,
+      "labelX": 845,
+      "labelY": 1007,
+      "maxRadius": 2.8,
+      "area": 167,
+      "colorId": 12
+    },
+    {
+      "id": 956,
+      "labelX": 555,
+      "labelY": 1023,
+      "maxRadius": 17.0,
+      "area": 854,
+      "colorId": 30
+    },
+    {
+      "id": 957,
+      "labelX": 990,
+      "labelY": 1012,
+      "maxRadius": 2.0,
+      "area": 32,
+      "colorId": 12
+    },
+    {
+      "id": 958,
+      "labelX": 316,
+      "labelY": 1015,
+      "maxRadius": 2.8,
+      "area": 37,
+      "colorId": 17
+    }
+  ]
+}
